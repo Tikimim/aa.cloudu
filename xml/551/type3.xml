@@ -1,0 +1,749 @@
+<skills>
+	<skill>
+		<index>1</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Сгустки пламени</p>
+			<p class="name-type">Волшебство</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>21</span></p>
+			<p>Дальность <span>0-20 м</span></p>
+			<p>Сила заклинания <span>+209%/130%/110%</span></p>
+			<p>Время применения <span>1.0 сек.</span></p>
+		</div>
+		<div class="desc">
+			<img src="/icon_buff/buff61.png" class="effect-icon" width="28"/>
+			<p>Наносит цели <span>(0 + 209% от силы заклинания)</span> ед. урона. Это умение
+			можно применить до <span>3 раз</span> подряд.</p>
+			<p>Первый сгусток накладывает на цель эффект <span>ожога</span>,
+			действующий <span>3.2 сек.</span></p>
+			<p><i>У этого умения снижено глобальное время восстановления.
+			При удерживании клавиши умение применяется непрерывно.</i></p>
+			</div>
+		<div class="effect">
+			<img src="/icon_buff/buff59.png" class="effect-icon" width="28" />
+			<p>Если цель находится под действием [электрошока], урон повышается
+			на <span>12%.</span></p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff61.png" class="effect-icon" width="28" />
+			<img src="/icon_buff/buff126.png" class="effect-icon" width="28" />
+			<p>Если цель находится под действием [ожога], третий сгусток наложит
+			на нее эффект [воспламенения] на <span>7 сек.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>2</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Ледяная стрела</p>
+			<p class="name-type">Волшебство</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>201</span></p>
+			<p>Дальность <span>0-20 м</span></p>
+			<p>Сила заклинания <span>+240%</span></p>
+			<p>Время применения <span>1.5 сек.</span></p>
+			<p>Восстановление <span>6 сек.</span></p>
+		</div>
+		<div class="desc">
+			<img src="/icon_buff/buff64.png" class="effect-icon" width="28" />
+			<img src="/icon_buff/buff04.png" class="effect-icon" width="28" />
+			<p>Наносит цели <span>(1161 + 240% от силы заклинания)</span> ед. урона
+			и накладывает эффект <span>заморозки</span>, действующий <span>4 сек.</span></p>
+			<p>Скорость цели, находящейся под действие заморозки, мгновенно
+			снижается на <span>60%</span> и постепенно восстанавливается.</p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff64.png" class="effect-icon" width="28" />
+			<img src="/icon_buff/buff372.png" class="effect-icon" width="28" />
+			<p>Если цель уже находится под действием [заморозки], на нее будет наложен эффект [обморожение], действуюший <span>14 сек.</span></p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff65.png" class="effect-icon" width="28" />
+			<p>Под воздействием [ледяной поступи], умение применяется мгновенно.</p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>3</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Магический щит</p>
+			<p class="name-type">Волшебство</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>108</span></p>
+			<p>Выбор цели не требуется.</p>
+			<p>Сила заклинания <span>+225%</span></p>
+			<p>Время применения <span>1.5 сек.</span></p>
+			<p>Восстановление <span>40 сек.</span></p>
+		</div>
+		<div class="desc">
+			<img src="/icon_buff/buff507.png" class="effect-icon" width="28" />
+			<p>Создает магический щит поглощающий <br> <span>(792 + 225% от силы заклинания)</span>
+			ед. урона и наделяющий заклинателя неуязвимость к <span>сбиванию с ног</span> в течение <span>40 сек.</span></p>
+			<p>После того, как магический щит теряет прочность, он взрывается и
+			обездвиживает противников в радиусе <span>6 м</span></p>
+			<p><i>Умение начинает восстанавливаться после того как щит теряет прочность или по истечению времени действия умения</i></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>4</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Молния гнева</p>
+			<p class="name-type">Волшебство</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>125</span></p>
+			<p>Дальность <span>0-20 м</span></p>
+			<p>Сила заклинания <span>+550%</span></p>
+			<p>Время применения <span>2.5 сек.</span></p>
+			<p>Восстановление <span>15 сек.</span></p>
+		</div>
+		<div class="desc">
+			<img src="/icon_buff/buff59.png" class="effect-icon" width="28"/>
+			<p>Наносит цели <span>(1183 + 550% от силы заклинания)</span> ед. урона
+			и накладывает эффект <span>электрошока,</span> действующий <span>8 сек.</span>
+			Электрошок наносит периодический урон и распространяется на
+			<span>20</span> противников в радиусе <span>2 м.</span> от цели</p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff61.png" class="effect-icon" width="28" />
+			<p>Если цель под воздействием [ожога], урон повышается на <span>30%.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>5</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Магический круг</p>
+			<p class="name-type">Волшебство</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>134</span></p>
+			<p>Выбор цели не требуется.</p>
+			<p>Мгновенное применение.</p>
+			<p>Восстановление <span>21 сек.</span></p>
+		</div>
+		<div class="desc">
+			<p>Создает на земле вокруг заклинателя область повышенной восприимчивости к магии.
+			При нахождении в этой области вероятность нанести критический урон заклинаниями
+			повышается на <span>9%</span>, а сила заклинаний - на <span>141 ед.</span>
+			Эффект рассеивается через <span>20 сек.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>6</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Обледенение</p>
+			<p class="name-type">Волшебство</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>260</span></p>
+			<p>Выбор цели не требуется.</p>
+			<p>Радиус действия <span>8 м</span></p>
+			<p>Сила заклинания <span>+140%</span></p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>28 сек.</span></p>
+		</div>
+		<div class="desc">
+			<img src="/icon_buff/buff64.png" class="effect-icon" width="28"/>
+			<img src="/icon_buff/buff55.png" class="effect-icon" width="28"/>
+			<p>Наносит противникам в области действия умения
+			до <span>(749 + 140% от силы заклинания)</span> ед. урона и
+			накладывает на них <span>оковы льда</span>, действующие в течении <span>6.2 сек.</span></p>
+			<p>Оковы льда препятствует передвижению пораженной цели и накладывают
+			на нее эффект заморозки.</p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff64.png" class="effect-icon" width="28" />
+			<img src="/icon_buff/buff372.png" class="effect-icon" width="28" />
+			<p>Если цель находится под действием [заморозки], на нее будет наложен
+			эффект [обморожение] на <span>8 сек.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>7</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Огненная стена</p>
+			<p class="name-type">Волшебство</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>473</span></p>
+			<p>Выбор цели не требуется.</p>
+			<p>Сила заклинания <span>+400%</span></p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>26 сек.</span></p>
+		</div>
+		<div class="desc">
+			<img src="/icon_buff/buff61.png" class="effect-icon" width="28"/>
+			<img src="/icon_buff/buff04.png" class="effect-icon" width="28"/>
+			<p>Перед заклинателем на <span>10 сек.</span> вырастает огненная стена.
+			Прикосновение к ней наносит противникам периодический урон в размере
+			<span>(1331 + 400% от силы заклинаний)</span> ед. урона.
+			в течении <span>5 сек.</span> и замедляет на <span>40%</span></p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff59.png" class="effect-icon" width="28" />
+			<p>Если цель находится под действием [электрошока], урон повышается на <span>41%.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>8</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Цепная молния</p>
+			<p class="name-type">Волшебство</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>198</span></p>
+			<p>Дальность <span>0-12 м</span></p>
+			<p>Сила заклинания <span>+209%</span></p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>30 сек.</span></p>
+		</div>
+		<div class="desc">
+			<img src="/icon_buff/buff59.png" class="effect-icon" width="28"/>
+			<p>Наносит цели <span>(390 + 209% от силы заклинания)</span> ед. урона
+			и передается по цепочке другим врагам в радиусе <span>5 м</span>
+			до <span>5 раз.</span> При каждой передаче заряда урон снижается на <span>50%.</span></p>
+			<p>Пораженные умением цели получают эффект <span>электрошок</span>,
+			действующий <span>8 сек.</span></p>
+			<p>Электрошок наносит периодический урон и распространяется на <span>20</span>
+			противников в радиусе <span>2 м.</span> от цели</p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff507.png" class="effect-icon" width="28" />
+			<img src="/icon_buff/buff10.png" class="effect-icon" width="28" />
+			<p>Если вы находитесь под воздействием [магического щита], основная
+			цель будет [оглушена] на <span>1.5 сек.</span></p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff507.png" class="effect-icon" width="28" />
+			<img src="/icon_buff/buff16.png" class="effect-icon" width="28" />
+			<p>Если вы находитесь под воздействием [магического щита], основная
+			цель [онемеет] на <span>1.5 сек.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>9</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Огненный дождь</p>
+			<p class="name-type">Волшебство</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>487</span></p>
+			<p>Выбор цели не требуется.</p>
+			<p>Радиус действия <span>10 м</span></p>
+			<p>Сила заклинания <span>+325%</span></p>
+			<p>Время применения <span>2.5 сек.</span></p>
+			<p>Восстановление <span>28 сек.</span></p>
+		</div>
+		<div class="desc">
+			<img src="/icon_buff/buff61.png" class="effect-icon" width="28"/>
+			<p>В течение <span>7 сек.</span> наносит противникам в области действия умения
+			до <span>(543 + 325% от силы заклинания)</span> ед. урона и накладывает на них
+			эффект <span>ожога</span>, действующий в течении <span>4.2 сек.</span></p>
+			<p>Во время применения умения заклинатель невосприимчив к негативным эффектам.</p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff59.png" class="effect-icon" width="28" />
+			<p>Если цель находится под действием [электрошока], урон повышается на <span>44%.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>10</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Ледяная поступь</p>
+			<p class="name-type">Волшебство</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>118</span></p>
+			<p>Выбор цели не требуется.</p>
+			<p>Время применения <span>2.0 сек.</span></p>
+			<p>Восстановление <span>40 сек.</span></p>
+		</div>
+		<div class="desc">
+			<img src="/icon_buff/buff64.png" class="effect-icon" width="28"/>
+			<img src="/icon_buff/buff80.png" class="effect-icon" width="28"/>
+			<p>В течение <span>9 сек.</span> за персонажем остаются ледяные
+			следы, тающие через <span>4 сек.</span></p>
+			<p>Противники, наступившие на такие следы, попадают под действие
+			эффекта <span>«Сильное обморожение»</span>, препятствующего передвижению и атаке
+			в течение <span>8 сек.</span></p>
+			<p>Одновременно под действие <span>«Сильного обморожения»</span> может попасть
+			не более <span>8</span> противников.</p>
+			<p>При сражении с другими игроками длительность эффекта сокращается вдвое</p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>11</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Метеор</p>
+			<p class="name-type">Волшебство</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>605</span></p>
+			<p>Дальность <span>0-25 м</span></p>
+			<p>Радиус действия <span>5 м</span></p>
+			<p>Сила заклинания <span>+900%</span></p>
+			<p>Время применения <span>5.0 сек.</span></p>
+			<p>Восстановление <span>34 сек.</span></p>
+		</div>
+		<div class="desc">
+			<img src="/icon_buff/buff61.png" class="effect-icon" width="28"/>
+			<img src="/icon_buff/buff01.png" class="effect-icon" width="28"/>
+			<p>Наносит <span>8</span> противникам в области действия умения
+			до <span>(1699 + 900% от силы заклинаний)</span> ед. урона
+			и сбивает их с ног на <span>2.5 сек.</span></p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff59.png" class="effect-icon" width="28" />
+			<p>Если цель находится под действием [электрошока], урон повышается на <span>30%.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>12</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Грозовая буря</p>
+			<p class="name-type">Волшебство</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>86</span></p>
+			<p>Дальность <span>0-22 м</span></p>
+			<p>Радиус действия <span>6 м</span></p>
+			<p>Сила заклинания <span>+140%</span></p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>25 сек.</span></p>
+		</div>
+		<div class="desc">
+			<img src="/icon_buff/buff59.png" class="effect-icon" width="28"/>
+			<p>Наносит противникам в области действия умения до
+			<span>(259 + 140% от силы заклинаний)</span> ед. урона и
+			накладывает эффект <span>электрошока</span>, действующий <span>8 сек.</span></p>
+			<p>Электрошок наносит периодический урон и распространяется
+			на <span>20</span> противников в радиусе <span>2 м.</span></p>
+			<p>Это умение можно использовать до <span>5 раз</span> подряд, при этом
+			наносимый урон, дальность действия и затраты маны с каждым разом будут возрастать.</p>
+			<p><i>У этого умения снижено глобальное время восстановления.</i></p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff61.png" class="effect-icon" width="28" />
+			<p>Если цель находится под действием [ожога], урон повышается на <span>20%.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>13</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Путь магии</p>
+			<p class="name-type">Волшебство</p>
+		</div>
+		<div class="info">
+			<p>Пассивное умение</p>
+		</div>
+		<div class="desc">
+			<p>Повышает запас маны на <span>35%.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>14</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Ученик Аранзеба</p>
+			<p class="name-type">Волшебство</p>
+		</div>
+		<div class="info">
+			<p>Пассивное умение</p>
+		</div>
+		<div class="desc">
+			<p>Сокращает время применения умений специализации <span>«Волшебство»</span> на <span>8%.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>15</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Чародейская концентрация</p>
+			<p class="name-type">Волшебство</p>
+		</div>
+		<div class="info">
+			<p>Пассивное умение</p>
+		</div>
+		<div class="desc">
+			<p>Длительность действия немоты сокращается на <span>30%.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>16</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Прилежание школяра</p>
+			<p class="name-type">Волшебство</p>
+		</div>
+		<div class="info">
+			<p>Пассивное умение</p>
+		</div>
+		<div class="desc">
+			<p>При использовании умений «Магического круг», «Ледяная поступь» и «Магический щит»
+			на <span>20 сек.</span> накладывается эффект <span>«Вдохновенная магия».</span></p>
+			<p>Данный эффект сокращает время применения умений на <span>15%</span> и
+			увеличивает показатель сноровки на <span>100 ед.</span></p>
+			<p>Время действия умения суммируется до <span>60 сек.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>17</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Колдовская мошь</p>
+			<p class="name-type">Волшебство</p>
+		</div>
+		<div class="info">
+			<p>Пассивное умение</p>
+		</div>
+		<div class="desc">
+			<p>Повышает дополнительный урон умений специализации <span>«Волшебство»</span> на <span>10%.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>18</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Пламенное сердце</p>
+			<p class="name-type">Волшебство</p>
+		</div>
+		<div class="info">
+			<p>Пассивное умение</p>
+		</div>
+		<div class="desc">
+			<p>Повышает вероятность критического урона заклинаний на <span>9%.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+
+
+	<skill>
+		<index>311</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Сгустки пламени</p>
+			<p class="name-type">Волшебство [Огонь]</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>24</span></p>
+			<p>Дальность <span>0-20 м</span></p>
+			<p>Сила заклинания <span>+360%</span></p>
+			<p>Время применения <span>1.5 сек.</span></p>
+		</div>
+		<div class="desc">
+			<img src="/icon_buff/buff61.png" class="effect-icon" width="28"/>
+			<p>Объединяет несколько сгустков пламени и выпускает в цель
+			большой огненный шар, который наносит ей урон в размере
+			<span>(0 + 360% от силы заклинания)</span> ед. и накладывает
+			эффект <span>ожога</span>, действующий <span>3.2 сек.</span></p>
+			<p><i>При удерживании клавиши умение применяется непрерывно.</i></p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff59.png" class="effect-icon" width="28" />
+			<p>Если цель находится под действием [электрошока], урон повышается
+			на <span>12%.</span></p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff61.png" class="effect-icon" width="28" />
+			<img src="/icon_buff/buff126.png" class="effect-icon" width="28" />
+			<p>Если цель находится под действием [ожога], на нее будет наложен
+			эффект [воспламенение] действующий <span>7 сек.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>318</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Сгустки пламени</p>
+			<p class="name-type">Волшебство [Хаос]</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>24</span></p>
+			<p>Дальность <span>0-20 м</span></p>
+			<p>Сила заклинания <span>+80%</span></p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>2 сек.</span></p>
+		</div>
+		<div class="desc">
+			<img src="/icon_buff/buff59.png" class="effect-icon" width="28"/>
+			<p>Мгновенно атакует цель тремя электрическими сгустками,
+			наносящими урон в размере <span>(0 + 80% от силы заклинания)</span> ед.,
+			и накладывает эффект <span>электрошока</span>, действующий в течение <span>8 сек.</span></p>
+			<p>Электрошок наносит периодический урон и распространяется на
+			<span>20</span> противников в радиусе <span>2 м.</span> от цели</p>
+			<p>При удерживании клавиши умения оно применяется непрерывно.</p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff61.png" class="effect-icon" width="28" />
+			<p>Если цель находится под действием [ожога], урон повышается на <span>12%.</span></p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff401.png" class="effect-icon" width="28" />
+			<p>Если вы находитесь под воздействием [отскока], умение восстанавливается мгновенно.</p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+
+	<skill>
+		<index>381</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Цепная молния</p>
+			<p class="name-type">Волшебство [Огонь]</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>198</span></p>
+			<p>Дальность <span>0-12 м</span></p>
+			<p>Сила заклинания <span>+110%</span></p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>30 сек.</span></p>
+		</div>
+		<div class="desc">
+			<img src="/icon_buff/buff61.png" class="effect-icon" width="28"/>
+			<p>Цель охватывает живой огонь, который через <span>2 сек.</span>
+			наносит <span>(556 + 110% от силы заклинания)</span> ед. урона и
+			передается другому противнику в радиусе <span>5 м</span> (до <span>4 раз</span>).
+			При каждой передаче урон повышается на <span>25%.</span></p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff507.png" class="effect-icon" width="28" />
+			<img src="/icon_buff/buff10.png" class="effect-icon" width="28" />
+			<p>Если вы находитесь под воздействием [магического щита], основная
+			цель будет [оглушена] на <span>1.5 сек.</span></p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff507.png" class="effect-icon" width="28" />
+			<img src="/icon_buff/buff16.png" class="effect-icon" width="28" />
+			<p>Если вы находитесь под воздействием [магического щита], основная
+			цель [онемеет] на <span>1.5 сек.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>385</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Цепная молния</p>
+			<p class="name-type">Волшебство [Вода]</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>198</span></p>
+			<p>Дальность <span>0-20 м</span></p>
+			<p>Сила заклинания <span>+209%</span></p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>30 сек.</span></p>
+		</div>
+		<div class="desc">
+			<img src="/icon_buff/buff64.png" class="effect-icon" width="28"/>
+			<img src="/icon_buff/buff55.png" class="effect-icon" width="28"/>
+			<p>Выпускает в противника ледяную сферу, которая наносит ему
+			<span>(390 + 209% от силы заклинания)</span> ед. урона. После
+			попадания в цель сфера распадается на ледяные осколки, которые
+			наносят урон при попадании, а также замораживают и обездвиживают
+			противников в радиусе <span>5 м.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+
+	<skill>
+		<index>3115</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Метеор</p>
+			<p class="name-type">Волшебство [Вода]</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>1629</span></p>
+			<p>Дальность <span>0-25 м</span></p>
+			<p>Радиус действия <span>10 м</span></p>
+			<p>Сила заклинания <span>+350%</span></p>
+			<p>Время применения <span>5.0 сек.</span></p>
+			<p>Восстановление <span>34 сек.</span></p>
+		</div>
+		<div class="desc">
+			<img src="/icon_buff/buff64.png" class="effect-icon" width="28"/>
+			<p>Обрушивает на врагов град, который наносит противникам в области
+			действия умения до <span>(1840 + 350% от силы заклинаний)</span> ед. урона.</p>
+			<p>Если противник, попадает под <span>5</span> ледяных осколков,
+			на него будет наложен эффект <span>«Обморожение»</span>, но он перестает получать
+			урон от умения «Метеор» (Вода).</p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>3118</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Метеор</p>
+			<p class="name-type">Волшебство [Хаос]</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>605</span></p>
+			<p>Дальность <span>0-25 м</span></p>
+			<p>Радиус действия <span>4 м</span></p>
+			<p>Сила заклинания <span>+400%</span></p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>34 сек.</span></p>
+		</div>
+		<div class="desc">
+			<img src="/icon_buff/buff59.png" class="effect-icon" width="28"/>
+			<img src="/icon_buff/buff04.png" class="effect-icon" width="28"/>
+			<p>Наносит противникам в области действия умения до
+			<span>(764 + 400% от силы заклинаний)</span> ед. урона и
+			накладывает на них эффект <span>электрошока</span>, действующий <span>8 сек.</span></p>
+			<p>Электрошок наносит периодический урон и распространяется
+			на <span>20</span> противников в радиусе <span>2 м</span>,
+			снижая сноровку пораженных целей на <span>666 ед.</span>,
+			а скорость передвижения - на <span>90%.</span></p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff61.png" class="effect-icon" width="28" />
+			<p>Если цель находится под действием [ожога], урон повышается на <span>20%.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+
+	<skill>
+		<index>3125</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Грозовая буря</p>
+			<p class="name-type">Волшебство [Вода]</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>315</span></p>
+			<p>Дальность <span>0-34 м</span></p>
+			<p>Радиус действия <span>6 м</span></p>
+			<p>Сила заклинания <span>+200%</span></p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>25 сек.</span></p>
+		</div>
+		<div class="desc">
+			<p>В выбранной области производит 8 ударов молний в течение <span>8 сек.</span>
+			нанося до <span>20</span>  противникам
+			<span>(374 + 200% от силы заклинаний)</span> ед. урона.</p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff61.png" class="effect-icon" width="28" />
+			<p>Если цель находится под действием [ожога], урон повышается на <span>20%.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>3128</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Грозовая буря</p>
+			<p class="name-type">Волшебство [Хаос]</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>86</span></p>
+			<p>Дальность <span>0-22 м</span></p>
+			<p>Радиус действия <span>6 м</span></p>
+			<p>Сила заклинания <span>+135%</span></p>
+			<p>Время применения <span>1.5 сек.</span></p>
+			<p>Восстановление <span>25 сек.</span></p>
+		</div>
+		<div class="desc">
+			<img src="/icon_buff/buff59.png" class="effect-icon" width="28"/>
+			<p><span>Можно использовать во время глобального кулдауна.</span></p>
+			<p>Наносит противникам в области действия умения до
+			<span>(230 + 135% от силы заклинаний)</span> ед. урона и
+			накладывает эффект <span>электрошока</span>, действующий <span>8 сек.</span></p>
+			<p>Электрошок наносит периодический урон и распространяется
+			на <span>20</span> противников в радиусе <span>2 м.</span></p>
+			<p>Это умение можно использовать до <span>5 раз</span> подряд, при этом
+			наносимый урон, дальность действия и затраты маны с каждым разом будут возрастать.</p>
+			<p><i>У этого умения снижено глобальное время восстановления.</i></p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff61.png" class="effect-icon" width="28" />
+			<p>Если цель находится под действием [ожога], урон повышается на <span>20%.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+</skills>

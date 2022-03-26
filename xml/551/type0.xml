@@ -1,0 +1,843 @@
+<skills>
+	<skill>
+		<index>1</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Тройной удар</p>
+			<p class="name-type">Нападение</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>12</span></p>
+			<p>Дальность <span>0-4 м</span></p>
+			<p>Сила атаки в ближнем бою <span>+140%/140%/200%</span></p>
+			<p>Мгновенное применение</p>
+		</div>
+		<div class="desc">
+			<p>Наносит цели <span>(0 + 140% от силы атаки в ближнем бою)</span> ед. урона.</p>
+			<p>Это умение можно применить до <span>трех</span> раз подряд. Третий удар
+			дополнительно наносит урон <span>20</span> противникам в радиусе <span>3 м.</span></p>
+			<p><i>У этого умения снижено глобальное время восстановления.</i></p>
+			<p><i>При удерживании клавиши умение применяется непрерывно.</i></p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff55.png" class="effect-icon" width="28" />
+			<img src="/icon_buff/buff122.png" class="effect-icon" width="28" />
+			<p>Если цель [обездвижена], первый удар [ослабит] ее на <span>3 сек.</span></p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff01.png" class="effect-icon" width="28" />
+			<p>Если цель [сбита с ног], второй удар нанесет на <span>48%</span> больше урона.</p>
+		</div>
+			<div class="effect">
+			<img src="/icon_buff/buff26.png" class="effect-icon" width="28" />
+			<p>Если вы находитесь под воздействием [заживление ран], умение создает
+			на <span>300%</span> больше угрозы.</p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>2</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Рывок</p>
+			<p class="name-type">Нападение</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>62</span></p>
+			<p>Дальность <span>0-12 м</span></p>
+			<p>Сила атаки в ближнем бою <span>+100%</span></p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>12 сек.</span></p>
+		</div>
+		<div class="desc">
+			<img src="/icon_buff/buff55.png" class="effect-icon" width="28" />
+			<p>Бросается к цели, нанося ей <span>(583 + 100% от силы атаки в ближнем бою)</span> ед. урона
+			и <span>обездвиживая</span> ее на <span>5 сек.</span></p>
+			<p>При сражении с другими игроками длительность эффекта сокращается <span>вдвое</span>.</p>
+			<p><i>У этого умения снижено глобальное время восстановления. Недоступно в состоянии
+			обездвиживания.</i></p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff04.png" class="effect-icon" width="28" />
+			<p>Если цель [замедлена], урон повышается на <span>26%.</span></p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff10.png" class="effect-icon" width="28" />
+			<img src="/icon_buff/buff01.png" class="effect-icon" width="28" />
+			<p>Если цель [оглушена], она будет [сбита с ног] на <span>2.5 сек.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>3</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Адреналин</p>
+			<p class="name-type">Нападение</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>54</span></p>
+			<p>Выбор цели не требуется.</p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>42 сек.</span></p>
+		</div>
+		<div class="desc">
+			<img src="/icon_buff/buff02.png" class="effect-icon" width="28" />
+			<p>Повышает показатель парирования на <span>30%</span>, а критический урон в
+			ближнем бою - на <span>20%.</span> Длительность действия эффекта составляет <span>20 сек.</span></p>
+			<p><i>Не активирует глобальное время восстановления способностей.</i></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>4</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Вихрь ударов</p>
+			<p class="name-type">Нападение</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>132</span></p>
+			<p>Выбор цели не требуется</p>
+			<p>Радиус действия <span>5 м</span></p>
+			<p>Сила атаки в ближнем бою <span>+150%/200%/330%</span></p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>12 сек.</span></p>
+		</div>
+		<div class="desc">
+			<p>Наносит противникам в радиусе действия умения до
+			<span>(296 + 150% от силы атаки в ближнем бою)</span> ед. урона.</p>
+			<p>Это умение можно применить до <span>трех</span> раз подряд.
+			Каждая последующая атака наносит больше урона.</p>
+			<p><i>При удерживании клавиши умение применяется непрерывно.</i></p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff04.png" class="effect-icon" width="28" />
+			<img src="/icon_buff/buff01.png" class="effect-icon" width="28" />
+			<p>Если цель [замедлена], она будет [сбита с ног] на <span>3.5 сек.</span></p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff01.png" class="effect-icon" width="28" />
+			<p>Если цель [сбита с ног], вторая атака нанесет на <span>29%</span> больше урона.</p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff10.png" class="effect-icon" width="28" />
+			<p>Если цель [оглушена], третья атака нанесет на <span>52%</span> больше урона.</p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff67.png" class="effect-icon" width="28" />
+			<p>Если цель под воздействием [кровотечения], урон повышается <span>33%.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>5</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Раскол земли</p>
+			<p class="name-type">Нападение</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>209</span></p>
+			<p>Выбор цели не требуется</p>
+			<p>Радиус действия <span>9 м</span></p>
+			<p>Сила атаки в ближнем бою <span>+400%</span></p>
+			<p>Время применения <span>0.5 сек.</span></p>
+			<p>Восстановление <span>16 сек.</span></p>
+		</div>
+		<div class="desc">
+			<p>Мощный удар раскалывает землю перед заклинателем и наносит противникам
+			до <span>(766 + 400% от силы атаки в ближнем бою)</span> ед. урона.</p>
+			<p>На соратников, попавших в область действия умения, будет наложен эффект,
+			уменьшающий получаемый урон на <span>30%</span> в течение <span>7 сек.</span></p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff01.png" class="effect-icon" width="28" />
+			<p>Если цель [сбита с ног], урон повышается на <span>58%.</span></p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff26.png" class="effect-icon" width="28" />
+			<img src="/icon_buff/buff120.png" class="effect-icon" width="28" />
+			<p>Если вы находитесь под воздействием [заживления ран], на цель на <span>4 сек.</span>
+			будет наложен эффект [усиленная провокация].</p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff67.png" class="effect-icon" width="28" />
+			<p>Если цель страдает от [кровотечения], урон повышается на <span>34%.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>6</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Неистовство</p>
+			<p class="name-type">Нападение</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>110</span></p>
+			<p>Выбор цели не требуется</p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>1 мин. 30 сек.</span></p>
+		</div>
+		<div class="desc">
+			<img src="/icon_buff/buff09.png" class="effect-icon" width="28" />
+			<p>На <span>20 сек.</span> накладывает эффект <span>«Неистовство».</span></p>
+			<p>При получении урона, показатель силы атаки в ближнем бою повышаются
+			на <span>80 ед.</span> и суммируется до <span>10 раз.</span></p>
+			<p>При нанесении урона, показатель защиты и сопротивления цели
+			снижается на <span>10%</span> и суммируется до <span>10 раз.</span></p>
+			<p>Расход маны на умения специализации «Нападение» сокращаются на <span>70%.</span></p>
+			<p>За каждого поверженного противника время действия умения продлевается
+			на <span>20 сек.</span>, при этом максимальная длительность эффекта не может
+			превысить <span>40 сек.</span></p>
+			<p>Наделяет неуязвимостью к отбрасыванию.</p>
+			<p><i>Не активирует глобальное время восстановления способностей.</i></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>7</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Решающий удар</p>
+			<p class="name-type">Нападение</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>94</span></p>
+			<p>Дальность <span>0-4 м</span></p>
+			<p>Сила атаки в ближнем бою <span>+360%</span></p>
+			<p>Мгновенное применение.</p>
+			<p>Восстановление <span>21 сек.</span></p>
+		</div>
+		<div class="desc">
+			<p>Наносит цели <span>(720 + 360% от силы атаки в ближнем бою)</span> ед. урона.
+			Критический урон решающего удара повышен на <span>70%</span>, а вероятность
+			нанести критический удар при атаке со спины - на <span>35%.</span>
+			Точность удара при атаке со спины <span>100%.</span></p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff67.png" class="effect-icon" width="28" />
+			<p>Если цель страдает от [кровотечения], урон повышается на <span>37%.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>8</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Вихрь сметри</p>
+			<p class="name-type">Нападение</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>183</span></p>
+			<p>Дальность <span>0-18 м</span></p>
+			<p>Сила атаки в ближнем бою <span>+130%</span></p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>18 сек.</span></p>
+		</div>
+		<div class="desc">
+			<img src="/icon_buff/buff81.png" class="effect-icon" width="28" />
+			<p>Наносит до <span>(668 + 130% от атаки в ближнем бою)</span> ед. урона цели
+			и пятерым противникам в области действия умения, а также накладывает на основную цель
+			эффект <span>«Штурм»</span> на <span>8 сек.</span> Штурм снижает скорость
+			восстановления здоровья на <span>33%.</span></span> Эффект суммируется
+			до <span>3 раз.</span></p>
+			<p><i>Это умение невозможно парировать или заблокировать.
+			От него невозможно уклониться. Недоступно в состоянии обездвиживания</i></p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff122.png" class="effect-icon" width="28" />
+			<p>Если цель [ослаблена], урон повышается на <span>13%.</span></p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff04.png" class="effect-icon" width="28" />
+			<img src="/icon_buff/buff55.png" class="effect-icon" width="28" />
+			<p>Если цель [замедлена], она будет [обездвижена] на <span>5 сек.</span></p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff124.png" class="effect-icon" width="28" />
+			<img src="/icon_buff/buff01.png" class="effect-icon" width="28" />
+			<p>Если цель [пронзена], она будет [сбита с ног] на <span>3 сек.</span></p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff81.png" class="effect-icon" width="28" />
+			<img src="/icon_buff/buff05.png" class="effect-icon" width="28" />
+			<p>Если цель находится под воздействием [штурма], она будет [парализована] на <span>1 сек.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>9</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Разбитые оковы</p>
+			<p class="name-type">Нападение</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>88</span></p>
+			<p>Выбор цели не требуется</p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>18 сек.</span></p>
+		</div>
+		<div class="desc">
+			<p>Рассеивает эффекты обездвиживания. Умение доступно только во время
+			действия этого эффекта.</p>
+			<p><i>Это умение можно применять во время глобального восстановления способностей.
+			Не активирует глобальное время восстановления способностей.</i></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>10</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Боевой клич</p>
+			<p class="name-type">Нападение</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>69</span></p>
+			<p>Выбор цели не требуется.</p>
+			<p>Радиус действия <span>5 м</span></p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>18 сек.</span></p>
+		</div>
+		<div class="desc">
+			<img src="/icon_buff/buff141.png" class="effect-icon" width="28" />
+			<p><span>Ослабляет волю</span> противников в области действия умения
+			в течении <span>7 сек.</span> Слабая воля увеличивает длительность
+			действия эффектов оглушения, падения, ужаса, обездвиживания,
+			обезоруживания, сна, прокола и заточения на <span>25%.</span></p>
+			<p>Дополнительно при применении умения воля заклинателя усиливается
+			на <span>7 сек.</span> Сильная воля снижает длительность действия
+			эффектов оглушения, падения, ужаса, обездвиживания, обезоруживания,
+			сна, прокола и заточения на <span>25%.</span></p>
+			<p><i>У этого умения снижено глобальное время восстановления.</i></p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff119.png" class="effect-icon" width="28" />
+			<img src="/icon_buff/buff01.png" class="effect-icon" width="28" />
+			<p>Если цель находится под воздействием [ужаса], она будет [сбита с ног] на <span>3 сек.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>11</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Молот гнева</p>
+			<p class="name-type">Нападение</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>188</span></p>
+			<p>Дальность <span>0-15 м</span></p>
+			<p>Сила атаки в ближнем бою <span>+209%</span></p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>42 сек.</span></p>
+		</div>
+		<div class="desc">
+			<img src="/icon_buff/buff10.png" class="effect-icon" width="28" />
+			<p>Бросает заряженный молот, который наносит цели
+			<span>(686 + 209% от силы атаки в ближнем бою)</span> ед. урона и
+			<span>оглушает</span> ее на <span>2.5 сек.</span> Дополнительно
+			наносит урон противникам в радиусе <span>3 м</span> и отбрасывает их
+			от цели на <span>5 м</span> назад.</p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff04.png" class="effect-icon" width="28" />
+			<p>Если цель [замедлена], урон повышается на <span>44%.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>12</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Сокрушительный прыжок</p>
+			<p class="name-type">Нападение</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>157</span></p>
+			<p>Дальность <span>6-20 м</span></p>
+			<p>Радиус действия <span>4 м</span></p>
+			<p>Сила атаки в ближнем бою <span>+110%</span></p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>21 сек.</span></p>
+		</div>
+		<div class="desc">
+			<img src="/icon_buff/buff122.png" class="effect-icon" width="28" />
+			<p>Прыгает в выбранную область, нанося
+			<span>(576 + 110% от силы атаки в ближнем бою)</span> ед. урона
+			в области действия умения и <span>ослабляя</span> их на <span>3 сек.</span>
+			Скорость передвижения ослабленной цели снижается на <span>27%,</span>
+			урон от умений - на <span>8%,</span> а сноровка - на <span>75 ед.</span></p>
+			<p><i>Недоступно в состоянии обездвиживания.</i></p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff55.png" class="effect-icon" width="28" />
+			<img src="/icon_buff/buff123.png" class="effect-icon" width="28" />
+			<p>Если цель [обездвижена], она будет [обессилена] на <span>7 сек.</span></span></p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff19.png" class="effect-icon" width="28" />
+			<img src="/icon_buff/buff01.png" class="effect-icon" width="28" />
+			<p>Если цель находится под воздействием [сна], она будет [сбита с ног] на <span>3 сек.</span></span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>13</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Амбидекстрия</p>
+			<p class="name-type">Нападение</p>
+		</div>
+		<div class="info">
+			<p>Пассивное умение</p>
+		</div>
+		<div class="desc">
+			<p>Позволяет парировать атаки дальнего боя при ношении парного оружия.
+			При успешном парировании все боевые умения специализации <span>«Нападение»</span>
+			мгновенно восстанавливаются.</p>
+			<p>Восстановление <span>12 сек.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>14</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Неудержимость</p>
+			<p class="name-type">Нападение</p>
+		</div>
+		<div class="info">
+			<p>Пассивное умение</p>
+		</div>
+		<div class="desc">
+			<p>После применения умений «Рывок», «Вихрь смерти» и «Сокрушительный прыжок»
+			в течение <span>4 сек.</span> длительность действия эффекта обезоруживания
+			снижается на <span>40%,</span> а устойчивость к атакам ближнего и
+			дальнего боя повышается на <span>15%.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>15</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Раскол брони</p>
+			<p class="name-type">Нападение</p>
+		</div>
+		<div class="info">
+			<p>Пассивное умение</p>
+		</div>
+		<div class="desc">
+			<p>Критические удары в ближнем бою снижают показатель защиты цели
+			на <span>3000 ед.</span> в течение <span>5 сек.</span> Восстановление <span>12 сек.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>16</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Боевой раж</p>
+			<p class="name-type">Нападение</p>
+		</div>
+		<div class="info">
+			<p>Пассивное умение</p>
+		</div>
+		<div class="desc">
+			<p>При попадании по цели умениями специализации <span>«Нападение»</span>,
+			на заклинателя на <span>9 сек.</span> накладывается эффект <span>«Бешенство»</span>.
+			Данный эффект повышает показатель критического урона в ближнем бою на <span>5%</span>,
+			а показатель сноровки – на <span>30 ед.</span> Эффект суммируется до <span>5 раз.</span>
+			После получения эффекта <span>«Бешенство»</span> заклинатель не сможет получить
+			еще один уровень эффекта в течении <span>1 сек.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>17</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Мастер оружия</p>
+			<p class="name-type">Нападение</p>
+		</div>
+		<div class="info">
+			<p>Пассивное умение</p>
+		</div>
+		<div class="desc">
+			<p>Повышает урон умений специализации <span>«Нападение»</span> на <span>10%.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>18</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Закаленная сталь</p>
+			<p class="name-type">Нападение</p>
+		</div>
+		<div class="info">
+			<p>Пассивное умение</p>
+		</div>
+		<div class="desc">
+			<p>Повышает вероятность критического удара в ближнем бою на <span>9%.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+
+
+	<skill>
+		<index>013</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Тройной удар</p>
+			<p class="name-type">Нападение [Земля]</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>12</span></p>
+			<p>Дальность <span>0-4 м</span></p>
+			<p>Радиус действия <span>3 м</span></p>
+			<p>Сила атаки в ближнем бою <span>+250%/250%/290%</span></p>
+			<p>Мгновенное применение</p>
+		</div>
+		<div class="desc">
+			<p>Наносит противникам в радиусе <span>3 м</span> до
+			<span>(0 + 250% от силы атаки в ближнем бою)</span> ед. урона.</p>
+			<p>Это умение можно применить до <span>трех</span> раз подряд. Третий удар
+			дополнительно наносит урон <span>20</span> противникам в радиусе <span>3 м.</span></p>
+			<p><i>У этого умения снижено глобальное время восстановления.</i></p>
+			<p><i>При удерживании клавиши умение применяется непрерывно.</i></p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff55.png" class="effect-icon" width="28" />
+			<img src="/icon_buff/buff122.png" class="effect-icon" width="28" />
+			<p>Если цель [обездвижена], первый удар [ослабит] ее на <span>3 сек.</span></p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff01.png" class="effect-icon" width="28" />
+			<p>Если цель [сбита с ног], второй удар нанесет на <span>48%</span> больше урона.</p>
+		</div>
+			<div class="effect">
+			<img src="/icon_buff/buff26.png" class="effect-icon" width="28" />
+			<p>Если вы находитесь под воздействием [заживление ран], умение создает
+			на <span>300%</span> больше угрозы.</p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>018</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Тройной удар</p>
+			<p class="name-type">Нападение [Хаос]</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>9</span></p>
+			<p>Дальность <span>0-4 м</span></p>
+			<p>Сила атаки в ближнем бою <span>+110%/110%/140%</span></p>
+			<p>Мгновенное применение</p>
+		</div>
+		<div class="desc">
+			<p>Наносит цели <span>(0 + 110% от силы атаки в ближнем бою)</span> ед. урона.</p>
+			<p>Это умение можно применить до <span>трех</span> раз подряд. Третий удар
+			дополнительно наносит урон <span>20</span> противникам в радиусе <span>3 м.</span>
+			Скорость атаки данного умения выше, чем базового.</p>
+			<p><i>У этого умения снижено глобальное время восстановления.</i></p>
+			<p><i>При удерживании клавиши умение применяется непрерывно.</i></p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff55.png" class="effect-icon" width="28" />
+			<img src="/icon_buff/buff122.png" class="effect-icon" width="28" />
+			<p>Если цель [обездвижена], первый удар [ослабит] ее на <span>3 сек.</span></p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff01.png" class="effect-icon" width="28" />
+			<p>Если цель [сбита с ног], второй удар нанесет на <span>48%</span> больше урона.</p>
+		</div>
+			<div class="effect">
+			<img src="/icon_buff/buff26.png" class="effect-icon" width="28" />
+			<p>Если вы находитесь под воздействием [заживление ран], умение создает
+			на <span>300%</span> больше угрозы.</p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+
+	<skill>
+		<index>075</index>
+		<desc>
+			<![CDATA[
+			<div class="header">
+				<p class="name-skills">Решающий удар</p>
+				<p class="name-type">Нападение [Вода]</p>
+			</div>
+			<div class="info">
+				<p>Мана <span>94</span></p>
+				<p>Дальность <span>0-4 м</span></p>
+				<p>Сила атаки в ближнем бою <span>+360%</span></p>
+				<p>Мгновенное применение.</p>
+				<p>Восстановление <span>21 сек.</span></p>
+			</div>
+			<div class="desc">
+				<p>Наносит цели <span>(720 + 360% от силы атаки в ближнем бою)</span> ед. урона.
+				Критический урон решающего удара повышен на <span>70%.</span> Если
+				запас здоровья цели <span>30%</span> и меньше, вероятность
+				критического удара повышается на <span>35%.</span></p>
+			</div>
+			<div class="effect">
+				<img src="/icon_buff/buff67.png" class="effect-icon" width="28" />
+				<p>Если цель страдает от [кровотечения], урон повышается на <span>37%.</span></p>
+			</div>
+			]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>077</index>
+		<desc>
+			<![CDATA[
+			<div class="header">
+				<p class="name-skills">Решающий удар</p>
+				<p class="name-type">Нападение [Воздух]</p>
+			</div>
+			<div class="info">
+				<p>Мана <span>94</span></p>
+				<p>Дальность <span>0-4 м</span></p>
+				<p>Сила атаки в ближнем бою <span>+360%</span></p>
+				<p>Мгновенное применение.</p>
+				<p>Восстановление <span>30 сек.</span></p>
+			</div>
+			<div class="desc">
+				<p>Наносит цели <span>(720 + 360% от силы атаки в ближнем бою)</span> ед. урона.
+				Критический урон решающего удара повышен на <span>70%.</span>
+				При атаке со спины вероятность критического удара повышена на <span>35%.</span>
+				Если противник умирает от решающего удара, умение мгновенно восстанавливается.
+				Точность удара при атаке со спины <span>100%.</span></p>
+			</div>
+			<div class="effect">
+				<img src="/icon_buff/buff67.png" class="effect-icon" width="28" />
+				<p>Если цель страдает от [кровотечения], урон повышается на <span>37%.</span></p>
+			</div>
+			]]>
+		</desc>
+	</skill>
+
+	<skill>
+		<index>082</index>
+		<desc>
+			<![CDATA[
+			<div class="header">
+				<p class="name-skills">Вихрь сметри</p>
+				<p class="name-type">Нападение [Жизнь]</p>
+			</div>
+			<div class="info">
+				<p>Мана <span>183</span></p>
+				<p>Дальность <span>0-18 м</span></p>
+				<p>Сила атаки в ближнем бою <span>+130%</span></p>
+				<p>Мгновенное применение</p>
+				<p>Восстановление <span>28 сек.</span></p>
+			</div>
+			<div class="desc">
+				<img src="/icon_buff/buff81.png" class="effect-icon" width="28" />
+				<p>Наносит до <span>(668 + 130% от атаки в ближнем бою)</span> ед. урона
+				цели и пятерым в области действия умения, а также накладывает на
+				основную цель эффект <span>«Штурм»,</span> действующий <span>8 сек.</span>
+				Штурм снижает скорость восстановления здоровья на <span>33%.</span>
+				Эффект суммируется до <span>3 раз.</span></p>
+				<p>При применении умения заклинатель на <span>1 сек.</span>
+				становится невосприимчив ко всем отрицательным эффектам.
+				Продолжительность эффекта увеличивается на <span>1 сек.</span> за
+				каждого противника, пораженного «Вихрем смерти» (Жизнь).</p>
+				<p><i>Это умение невозможно парировать или заблокировать.
+			    От него невозможно уклониться. Недоступно в состоянии обездвиживания</i></p>
+			</div>
+			<div class="effect">
+			<img src="/icon_buff/buff122.png" class="effect-icon" width="28" />
+			    <p>Если цель [ослаблена], урон повышается на <span>13%.</span></p>
+    		</div>
+    		<div class="effect">
+    			<img src="/icon_buff/buff04.png" class="effect-icon" width="28" />
+    			<img src="/icon_buff/buff55.png" class="effect-icon" width="28" />
+    			<p>Если цель [замедлена], она будет [обездвижена] на <span>5 сек.</span></p>
+    		</div>
+    		<div class="effect">
+    			<img src="/icon_buff/buff124.png" class="effect-icon" width="28" />
+    			<img src="/icon_buff/buff01.png" class="effect-icon" width="28" />
+    			<p>Если цель [пронзена], она будет [сбита с ног] на <span>3 сек.</span></p>
+    		</div>
+    		<div class="effect">
+    			<img src="/icon_buff/buff81.png" class="effect-icon" width="28" />
+    			<img src="/icon_buff/buff05.png" class="effect-icon" width="28" />
+    			<p>Если цель находится под воздействием [штурма], она будет [парализована] на <span>1 сек.</span></p>
+    		</div>
+			]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>088</index>
+		<desc>
+			<![CDATA[
+			<div class="header">
+				<p class="name-skills">Вихрь сметри</p>
+				<p class="name-type">Нападение [Хаос]</p>
+			</div>
+			<div class="info">
+				<p>Мана <span>183</span></p>
+				<p>Дальность <span>0-12 м</span></p>
+				<p>Сила атаки в ближнем бою <span>+80%</span></p>
+				<p>Мгновенное применение</p>
+				<p>Восстановление <span>18 сек.</span></p>
+			</div>
+			<div class="desc">
+				<img src="/icon_buff/buff81.png" class="effect-icon" width="28" />
+				<p>Производит <span>три</span> стремительные атаки и наносит противнику
+				<span>(445 + 80% от атаки в ближнем бою)</span> ед. урона, а также
+				накладывает эффект <span>«Штурм»</span> действующий <span>8 сек.</span>
+				Штурм снижает скорость восстановления здоровья на <span>33%.</span>
+				Эффект суммируется до <span>3 раз.</span></p>
+				<p><i>Это умение невозможно парировать или заблокировать.
+			    От него невозможно уклониться. Недоступно в состоянии обездвиживания</i></p>
+			</div>
+			<div class="effect">
+			<img src="/icon_buff/buff122.png" class="effect-icon" width="28" />
+			    <p>Если цель [ослаблена], урон повышается на <span>13%.</span></p>
+    		</div>
+    		<div class="effect">
+    			<img src="/icon_buff/buff04.png" class="effect-icon" width="28" />
+    			<img src="/icon_buff/buff55.png" class="effect-icon" width="28" />
+    			<p>Если цель [замедлена], она будет [обездвижена] на <span>5 сек.</span></p>
+    		</div>
+    		<div class="effect">
+    			<img src="/icon_buff/buff124.png" class="effect-icon" width="28" />
+    			<img src="/icon_buff/buff01.png" class="effect-icon" width="28" />
+    			<p>Если цель [пронзена], она будет [сбита с ног] на <span>3 сек.</span></p>
+    		</div>
+    		<div class="effect">
+    			<img src="/icon_buff/buff81.png" class="effect-icon" width="28" />
+    			<img src="/icon_buff/buff05.png" class="effect-icon" width="28" />
+    			<p>Если цель находится под воздействием [штурма], она будет [парализована] на <span>1 сек.</span></p>
+    		</div>
+			]]>
+		</desc>
+	</skill>
+
+	<skill>
+		<index>0124</index>
+	    <desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Сокрушительный прыжок</p>
+			<p class="name-type">Нападение [Порядок]</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>157</span></p>
+			<p>Дальность <span>6-18 м</span></p>
+			<p>Радиус действия <span>4 м</span></p>
+			<p>Сила атаки в ближнем бою <span>+110%</span></p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>21 сек.</span></p>
+		</div>
+		<div class="desc">
+			<img src="/icon_buff/buff122.png" class="effect-icon" width="28" />
+			<p>Прыгает в выбранную область, нанося
+			<span>(576 + 110% от силы атаки в ближнем бою)</span> ед. урона
+			в области действия умения и <span>ослабляя</span> их на <span>3 сек.</span>
+			Скорость передвижения ослабленной цели снижается на <span>27%,</span>
+			урон от умений - на <span>8%,</span> а сноровка - на <span>75 ед.</span></p>
+			<p><i>Недоступно в состоянии обездвиживания.</i></p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff55.png" class="effect-icon" width="28" />
+			<img src="/icon_buff/buff01.png" class="effect-icon" width="28" />
+			<p>Если цель [обездвижена], она будет [опрокинута] на <span>3 сек.</span></span></p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff19.png" class="effect-icon" width="28" />
+			<img src="/icon_buff/buff01.png" class="effect-icon" width="28" />
+			<p>Если цель находится под воздействием [сна], она будет [сбита с ног] на <span>3 сек.</span></span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>0127</index>
+	    <desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Сокрушительный прыжок</p>
+			<p class="name-type">Нападение [Воздух]</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>157</span></p>
+			<p>Дальность <span>6-20 м</span></p>
+			<p>Радиус действия <span>3 м</span></p>
+			<p>Сила атаки в ближнем бою <span>+110%</span></p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>21 сек.</span></p>
+		</div>
+		<div class="desc">
+			<img src="/icon_buff/buff122.png" class="effect-icon" width="28" />
+			<p><span>Время восстановления умения <span>«Рывок»</span> сокращается
+			на <span>2 сек.</span> за каждого противника в области действия умения.</span></p>
+			<p>Прыгает в выбранную область, нанося
+			<span>(576 + 110% от силы атаки в ближнем бою)</span> ед. урона
+			в области действия умения и <span>ослабляя</span> их на <span>3 сек.</span>
+			Скорость передвижения ослабленной цели снижается на <span>27%,</span>
+			урон от умений - на <span>8%,</span> а сноровка - на <span>75 ед.</span></p>
+			<p><i>Недоступно в состоянии обездвиживания.</i></p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff55.png" class="effect-icon" width="28" />
+			<img src="/icon_buff/buff123.png" class="effect-icon" width="28" />
+			<p>Если цель [обездвижена], она будет [обессилена] на <span>7 сек.</span></span></p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff19.png" class="effect-icon" width="28" />
+			<img src="/icon_buff/buff01.png" class="effect-icon" width="28" />
+			<p>Если цель находится под воздействием [сна], она будет [сбита с ног] на <span>3 сек.</span></span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+</skills>

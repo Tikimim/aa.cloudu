@@ -1,0 +1,713 @@
+<skills>
+	<skill>
+		<index>1</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Потрошение</p>
+			<p class="name-type">Скрытность</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>8</span></p>
+			<p>Дальность <span>0-4 м</span></p>
+			<p>Сила атаки в ближнем бою <span>+75%</span></p>
+			<p>Мгновенное применение</p>
+		</div>
+		<div class="desc">
+			<p>Наносит цели <span>(0 + 75% от силы атаки в ближнем бою)</span> ед. урона. 
+			Это умение можно применить до <span>3 раз</span> подряд. При атаке со спины 
+			вероятность критического удара повышена на <span>50%.</span> Дополнительно 
+			при атаке со спины на заклинателя на <span>3 сек.</span> накладывается эффект 
+			<span>«Мрачный жнец»</span>. Скорость передвижения снижена на </span>4%.</span></p>
+			<p><i>У этого умения снижено глобальное время восстановления.</i></p>
+			<p><i>При удерживании клавиши умения оно применяется непрерывно.</i></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>2</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Смертоносный яд</p>
+			<p class="name-type">Скрытность</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>93</span></p>
+			<p>Выбор цели не требуется</p>
+			<p>Сила заклинаний <span>+240%</span></p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>9 сек.</span></p>
+		</div>
+		<div class="desc">
+			<img src="icon_buff/buff125.png" class="effect-icon" width="28" />
+			<p>Наносит на оружие смертоносный яд, действующий в течение <span>9 сек.</span> 
+			Под воздействием смертоносного яда, первая успешная атака в ближнем или дальнем 
+			бою отравляет противника. 
+			Отравленная цель получает <span>(1274 + 240% от силы заклинаний)</span> ед. урона 
+			в течение <span>6 сек.</span>, а ее восприимчивость к исцелению снижается на <span>30%.</span></p>
+			<p><i>Не активирует глобальное время восстановления способностей.</i></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>3</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Отскок</p>
+			<p class="name-type">Скрытность</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>25</span></p>
+			<p>Выбор цели не требуется</p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>12 сек.</span></p>
+		</div>
+		<div class="desc">
+			<p>Резко отскакивает на <span>10 м</span> назад и получает возможность 
+			в течение <span>2.5 сек.</span> мгновенно применять умения «Сгустки пламени», 
+			«Свет и тьма» и «Раскол земли».</p>
+			<p><i>У этого умения снижено глобальное время восстановленияю. Недоступно в состоянии 
+			обездвиживания.</i></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>4</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Ликвидация</p>
+			<p class="name-type">Скрытность</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>189</span></p>
+			<p>Дальность <span>0-4 м</span></p>
+			<p>Сила атаки в ближнем бою <span>+150%</span></p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>21 сек.</span></p>
+		</div>
+		<div class="desc">
+			<img src="icon_buff/buff67.png" class="effect-icon" width="28" />
+			<p>Наносит цели <span>(1382 + 150% от силы атаки в ближнем бою)</span> ед. урона 
+			и накладыват эффект <span>кровотечения</span>, действующий в течение <span>14 сек.</span> 
+			Кровотечение наносит периодический урон от силы атаки в ближнем бою.</p>
+		</div>
+		<div class="effect">
+			<img src="icon_buff/buff125.png" class="effect-icon" width="28" />
+			<img src="icon_buff/buff16.png" class="effect-icon" width="28" />
+			<p>Если цель [отравлена], она [онемеет] на <span>3 сек.</span></p>
+		</div>
+		<div class="effect">
+			<img src="icon_buff/buff66.png" class="effect-icon" width="28" />
+			<img src="icon_buff/buff05.png" class="effect-icon" width="28" />
+			<p>Если вы находитесь под воздействием [жажды крови], цель будет [парализована] на <span>1 сек.</span></p>
+		</div>
+		<div class="effect">
+			<img src="icon_buff/buff67.png" class="effect-icon" width="28" />
+			<img src="icon_buff/buff67.png" class="effect-icon" width="28" />
+			<p>Если цель уже страдает от [кровотечения], эффект усилится.</p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>5</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Бросок кобры</p>
+			<p class="name-type">Скрытность</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>157</span></p>
+			<p>Дальность <span>0-12 м</span></p>
+			<p>Сила атаки в ближнем бою <span>+100%</span></p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>18 сек.</span></p>
+		</div>
+		<div class="desc">
+			<p>Бросается к цели, нанося ей <span>(1176 + 100% от силы атаки в ближнем бою)</span> ед. урона.</p>
+			<p>Недоступно в состоянии обездвиживании.</p>
+		</div>
+		<div class="effect">
+			<img src="icon_buff/buff66.png" class="effect-icon" width="28" />
+			<img src="icon_buff/buff10.png" class="effect-icon" width="28" />
+			<p>Если вы находитесь под воздействием [жажды крови], цель будет [парализована] на <span>0.3 сек.</span></p>
+		</div>
+		<div class="effect">
+			<img src="icon_buff/buff57.png" class="effect-icon" width="28" />
+			<p>Если цель отмечена [меткой убийцы], умение всегда попадает в цель.</p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>6</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Метка убийцы</p>
+			<p class="name-type">Скрытность</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>63</span></p>
+			<p>Дальность <span>0-25 м</span></p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>27 сек.</span></p>
+		</div>
+		<div class="desc">
+			<img src="icon_buff/buff57.png" class="effect-icon" width="28" />
+			<p>Накладывает на противника смертельную метку. Отмеченная цель получает на 
+			<span>16%</span> больше урона от заклинаний и умений дальнего боя. 
+			Длительность действия эффекта составляет <span>15 сек.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>7</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Мясорубка</p>
+			<p class="name-type">Скрытность</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>291</span></p>
+			<p>Дальность <span>0-4 м</span></p>
+			<p>Сила атаки в ближнем бою <span>+320%</span></p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>12 сек.</span></p>
+		</div>
+		<div class="desc">
+			<img src="icon_buff/buff66.png" class="effect-icon" width="28" />
+			<img src="icon_buff/buff05.png" class="effect-icon" width="28" />
+			<p>Проводит серию из четырех ударов, наносящих 
+			<span>(2131 + 320% от силы атаки в ближнем бою)</span> ед. урона.</p>
+		</div>
+		<div class="effect">
+			<img src="icon_buff/buff66.png" class="effect-icon" width="28" />
+			<img src="icon_buff/buff05.png" class="effect-icon" width="28" />
+			<p>Если вы находитесь под воздействием [жажды крови], цель будет [парализована] на <span>0.3 сек.</span></p>
+		</div>
+		<div class="effect">
+			<img src="icon_buff/buff125.png" class="effect-icon" width="28" />
+			<img src="icon_buff/buff326.png" class="effect-icon" width="28" />
+			<p>Если цель [отравлена], каждый удар накладывает эффект [пробитые доспехи] повышающий урон на 1.4% в течение <span>10 сек.</span> Суммируется до 4 раз.</p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>8</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Невидимость</p>
+			<p class="name-type">Скрытность</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>85</span></p>
+			<p>Выбор цели не требуется</p>
+			<p>Мгновенное применение</p>
+		</div>
+		<div class="desc">
+			<img src="icon_buff/buff69.png" class="effect-icon" width="28" />
+			<p>Cтановится <span>невидимым</span> для противников в течение <span>45 сек.</span></p>
+			<p>Скорость передвижения в состоянии невидимости снижается на <span>5%.</span> 
+			Эффект рассеивается при любом действии, кроме передвижения.</p>
+			<p>Пока действует эффект невидимости, уровень жажды крови каждую секунду 
+			повышается на <span>1 ед.</span></p>
+			<p>Эффект <span>«Жажда крови»</span> действует <span>25 сек.</span> и суммируется до <span>10 раз.</span></p>
+			<p>Каждый уровень жажды крови повышает урон и эффективность исцеляющих умений 
+			на <span>3%.</span> Каждая успешная атака расходует <span>2 ед.</span> жажды крови.</p>
+			<p>Умение начинает восстанавливаться после того, как эффект невидимости рассеивается. 
+			Время восстановления <span>30 сек.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>9</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Проворство</p>
+			<p class="name-type">Скрытность</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>65</span></p>
+			<p>Выбор цели не требуется</p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>1 мин. 30 сек.</span></p>
+		</div>
+		<div class="desc">
+			<p>Повышает показатель сноровки на <span>64 ед.</span>, а скорость 
+			передвижения - на <span>40%</span> Длительность действия 
+			эффекта составляет <span>30 сек.</span></p>
+			<p><i>У этого умения снижено глобальное время восстановления.</i></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>10</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Расправа</p>
+			<p class="name-type">Скрытность</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>106</span></p>
+			<p>Дальность <span>0-4 м</span></p>
+			<p>Сила атаки в дальнем бою <span>+0%</span></p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>24 сек.</span></p>
+		</div>
+		<div class="desc">
+			<p>Наносит цели <span>(779 + 0% от силы атаки в ближнем бою)</span> ед. урона.</p>
+			<p>При атаке со спины наносит на <span>400%</span> больше урона.</p>
+		</div>
+		<div class="effect">
+			<img src="icon_buff/buff10.png" class="effect-icon" width="28" />
+			<img src="icon_buff/buff01.png" class="effect-icon" width="28" />
+			<p>Если цель [оглушена], она будет [сбита с ног] на <span>2.5 сек.</span></p>
+		</div>
+		<div class="effect">
+			<img src="icon_buff/buff69.png" class="effect-icon" width="28" />
+			<p>Атака из [невидимости], повышает урон на <span>98%.</span></p>
+		</div>
+		<div class="effect">
+			<img src="icon_buff/buff69.png" class="effect-icon" width="28" />
+			<img src="icon_buff/buff341.png" class="effect-icon" width="28" />
+			<p>Если вы находитесь под воздействием [невидимости], за каждый уровень 
+			[жажды крови] на заклинателя на <span>0.5 сек.</span> будет наложен эффект [кровавая пелена].</p>
+		</div>
+		<div class="effect">
+			<img src="icon_buff/buff125.png" class="effect-icon" width="28" />
+			<img src="icon_buff/buff37.png" class="effect-icon" width="28" />
+			<p>Если цель [отравлена], она будет [обезоружена] на <span>5.7 сек.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>11</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Кража чар</p>
+			<p class="name-type">Скрытность</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>79</span></p>
+			<p>Дальность <span>0-12 м</span></p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>45 сек.</span></p>
+		</div>
+		<div class="desc">
+			<p>Забирает у противника от <span>одного</span> до <span>трех</span> 
+			положительных эффектов и передает их заклинателю.</p>
+		</div>
+		<div class="effect">
+			<img src="icon_buff/buff42.png" class="effect-icon" width="28" />
+			<p>Если цель находится под воздействием [энергетического щита], передает его заклинателю.</p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>12</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Бросок кинжала</p>
+			<p class="name-type">Скрытность</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>402</span></p>
+			<p>Дальность <span>0-10 м</span></p>
+			<p>Сила атаки в ближнем бою <span>+120%</span></p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>35 сек.</span></p>
+		</div>
+		<div class="desc">
+			<p>Кинжал наносит цели <span>(1469 + 120% от силы атаки в ближнем бою)</span> ед. урона 
+			и рикошетом поражает еще <span>5</span> противников в области действия умения.  
+			С каждой новой целью урон уменьшается. 
+			Показатель сноровки пораженных противников снижается на <span>400 ед.</span>, а время 
+			применения умений увеличивается на <span>40%.</span></p>
+			<p>Длительность действия эффекта составляет <span>3 сек.</span></p>
+		</div> 
+		<div class="effect">
+			<img src="icon_buff/buff401.png" class="effect-icon" width="28" />
+			<p>Если вы находитесь под воздействием [отскока], дальность применения 
+			увеличивается на <span>10 м.</span></p>
+		</div>
+		<div class="effect">
+			<img src="icon_buff/buff125.png" class="effect-icon" width="28" />
+			<img src="icon_buff/buff04.png" class="effect-icon" width="28" />
+			<p>Если цель [отравлена], все пораженные цели будут [замедлены] 
+			на 40% в течение <span>3 сек.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>13</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Шквал клинков</p>
+			<p class="name-type">Скрытность</p>
+		</div>
+		<div class="info">
+			<p>Пассивное умение</p>
+		</div>
+		<div class="desc">
+			<p>Повышает показатель сноровки на <span>40 ед.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>14</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Акробатические трюки</p>
+			<p class="name-type">Скрытность</p>
+		</div>
+		<div class="info">
+			<p>Пассивное умение</p>
+		</div>
+		<div class="desc">
+			<p>Повышает показатель уклонения на <span>5%.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>15</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Поиск бреши</p>
+			<p class="name-type">Скрытность</p>
+		</div>
+		<div class="info">
+			<p>Пассивное умение</p>
+		</div>
+		<div class="desc">
+			<p>При нанесении критического урона или критическом исцелении на <span>8 сек.</span> 
+			повышает показатель сноровки на <span>120 ед.</span></p>
+			<p>Восстановление <span>12 сек.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>16</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Ярость Мелисары</p>
+			<p class="name-type">Скрытность</p>
+		</div>
+		<div class="info">
+			<p>Пассивное умение</p>
+		</div>
+		<div class="desc">
+			<p>Уровень жажды крови накапливается в <span>2 раза</span> быстрее.</p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>17</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Отравитель</p>
+			<p class="name-type">Скрытность</p>
+		</div>
+		<div class="info">
+			<p>Пассивное умение</p>
+		</div>
+		<div class="desc">
+			<p>Увеличивает длительность эффектов отравления и кровотечения на <span>70%.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>18</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Мастер скрытности</p>
+			<p class="name-type">Скрытность</p>
+		</div>
+		<div class="info">
+			<p>Пассивное умение</p>
+		</div>
+		<div class="desc">
+			<p>Сокращает время восстановления умений специализации <span>«Скрытность»</span> на <span>20%.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	
+	<skill>
+		<index>851</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Бросок кобры</p>
+			<p class="name-type">Скрытность [Огонь]</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>69</span></p>
+			<p>Дальность <span>0-12 м</span></p>
+			<p>Сила атаки в ближнем бою <span>+200%</span></p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>26 сек.</span></p>
+		</div>
+		<div class="desc">
+			<p>Бросается к цели, нанося ей <span>(240 + 200% от силы атаки в ближнем бою)</span> 
+			ед. урона.</p>
+			<p>При успешной атаке со спины вероятность критического эффекта исцеления и 
+			вероятность нанесения критического урона повышаются на </span>100%<span> 
+			в течение <span>6 сек.</span></p>
+			<p><i>Недоступно в состоянии обездвиживания.</i></p>
+		</div>
+		<div class="effect">
+			<img src="icon_buff/buff66.png" class="effect-icon" width="28" />
+			<img src="icon_buff/buff10.png" class="effect-icon" width="28" />
+			<p>Если вы находитесь под воздействием [жажды крови], цель будет [парализована] на <span>0.3 сек.</span></p>
+		</div>
+		<div class="effect">
+			<img src="icon_buff/buff57.png" class="effect-icon" width="28" />
+			<p>Если цель отмечена [меткой убийцы], умение всегда попадает в цель.</p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>858</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Бросок кобры</p>
+			<p class="name-type">Скрытность [Хаос]</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>69</span></p>
+			<p>Дальность <span>0-6 м</span></p>
+			<p>Сила атаки в ближнем бою <span>+200%</span></p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>18 сек.</span></p>
+		</div>
+		<div class="desc">
+			<p>Бросается к цели, нанося ей <span>(240 + 200% от силы атаки в ближнем бою)</span> 
+			ед. урона, после чего совершает прыжок на <span>15 м</span> вперед.</p>
+			<p><i>Недоступно в состоянии обездвиживания.</i></p>
+		</div>
+		<div class="effect">
+			<img src="icon_buff/buff66.png" class="effect-icon" width="28" />
+			<img src="icon_buff/buff10.png" class="effect-icon" width="28" />
+			<p>Если вы находитесь под воздействием [жажды крови], цель будет [парализована] на <span>0.3 сек.</span></p>
+		</div>
+		<div class="effect">
+			<img src="icon_buff/buff57.png" class="effect-icon" width="28" />
+			<p>Если цель отмечена [меткой убийцы], умение всегда попадает в цель.</p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+
+	<skill>
+		<index>835</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Отскок</p>
+			<p class="name-type">Скрытность [Вода]</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>25</span></p>
+			<p>Выбор цели не требуется</p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>12 сек.</span></p>
+		</div>
+		<div class="desc">
+			<p>Резко отскакивает на <span>10 м</span> назад и получает возможность 
+			в течение <span>2.5 сек.</span> мгновенно применять умения 
+			«Разрывной выстрел», «Массовое исцеление» и «Магический щит».</p>
+			<p><i>У этого умения снижено глобальное время восстановленияю. Недоступно в состоянии 
+			обездвиживания.</i></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>836</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Отскок</p>
+			<p class="name-type">Скрытность [Смерть]</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>25</span></p>
+			<p>Выбор цели не требуется</p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>12 сек.</span></p>
+		</div>
+		<div class="desc">
+			<p>Cовершает прыжок на <span>8 м</span> вперед и получает возможность 
+			в течение <span>2.5 сек.</span> мгновенно применять умения «Сгустки пламени», 
+			«Свет и тьма» и «Раскол земли»</p>
+			<p><i>У этого умения снижено глобальное время восстановленияю. Недоступно в состоянии 
+			обездвиживания.</i></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+
+	<skill>
+		<index>8106</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Расправа</p>
+			<p class="name-type">Скрытность [Смерть]</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>92</span></p>
+			<p>Дальность <span>0-4 м</span></p>
+			<p>Сила атаки в ближнем бою <span>+0%</span></p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>24 сек.</span></p>
+		</div>
+		<div class="desc">
+			<p>Наносит цели <span>(672 + 0% от силы атаки в ближнем бою)</span> ед. урона.</p>
+			<p>При атаке со спины наносит на <span>400%</span> больше урона.</p>
+		</div>
+		<div class="effect">
+			<img src="icon_buff/buff28.png" class="effect-icon" width="28" />
+			<img src="icon_buff/buff01.png" class="effect-icon" width="28" />
+			<p>Если цель находится под воздействием [провокация], она будет [сбита с ног] на <span>2.5 сек.</span></p>
+		</div>
+		<div class="effect">
+			<img src="icon_buff/buff69.png" class="effect-icon" width="28" />
+			<p>Атака из [невидимости], повышает урон на <span>98%.</span></p>
+		</div>
+		<div class="effect">
+			<img src="icon_buff/buff69.png" class="effect-icon" width="28" />
+			<img src="icon_buff/buff341.png" class="effect-icon" width="28" />
+			<p>Если вы находитесь под воздействием [невидимости], за каждый уровень 
+			[жажды крови] на заклинателя на <span>0.5 сек.</span> будет наложен эффект [кровавая пелена].</p>
+		</div>
+		<div class="effect">
+			<img src="icon_buff/buff125.png" class="effect-icon" width="28" />
+			<img src="icon_buff/buff37.png" class="effect-icon" width="28" />
+			<p>Если цель [отравлена], она будет [обезоружена] на <span>5.3 сек.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>8108</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Расправа</p>
+			<p class="name-type">Скрытность [Хаос]</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>92</span></p>
+			<p>Дальность <span>0-6 м</span></p>
+			<p>Сила атаки в дальнем бою <span>+0%</span></p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>24 сек.</span></p>
+		</div>
+		<div class="desc">
+			<p>Позволяет мгновенно переместится за спину противника и наносит 
+			<span>(672 + 0% от силы атаки в ближнем бою)</span> ед. урона. При атаке 
+			со спины наносит на <span>400%</span> больше урона.</p>
+		</div>
+		<div class="effect">
+			<img src="icon_buff/buff10.png" class="effect-icon" width="28" />
+			<img src="icon_buff/buff01.png" class="effect-icon" width="28" />
+			<p>Если цель [оглушена], она будет [сбита с ног] на <span>2.5 сек.</span></p>
+		</div>
+		<div class="effect">
+			<img src="icon_buff/buff69.png" class="effect-icon" width="28" />
+			<p>Атака из [невидимости], повышает урон на <span>98%.</span></p>
+		</div>
+		<div class="effect">
+			<img src="icon_buff/buff69.png" class="effect-icon" width="28" />
+			<img src="icon_buff/buff341.png" class="effect-icon" width="28" />
+			<p>Если вы находитесь под воздействием [невидимости], за каждый уровень 
+			[жажды крови] на заклинателя на <span>0.5 сек.</span> будет наложен эффект [кровавая пелена].</p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+
+	<skill>
+		<index>891</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Проворство</p>
+			<p class="name-type">Скрытность [Огонь]</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>65</span></p>
+			<p>Выбор цели не требуется</p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>1 мин. 30 сек.</span></p>
+		</div>
+		<div class="desc">
+			<p>Повышает показатель сноровки на <span>42 ед.</span>, а скорость 
+			передвижения - на <span>30%</span> Длительность действия 
+			эффекта составляет <span>20 сек.</span> 
+			За каждого поверженного противника время действия умения обновляется.</p>
+			<p><i>У этого умения снижено глобальное время восстановления.</i></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>893</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Проворство</p>
+			<p class="name-type">Скрытность [Земля]</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>65</span></p>
+			<p>Выбор цели не требуется</p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>1 мин. 30 сек.</span></p>
+		</div>
+		<div class="desc">
+			<p>Повышает показатель сноровки на <span>42 ед.</span> и скорость 
+			передвижения - на <span>30%,</span> а также повышает показатель сноровки 
+			соратника на <span>20 ед.</span> и скорость передвижения - на <span>15%</span> 
+			Длительность действия эффекта составляет <span>20 сек.</span></p>
+			<p><i>У этого умения снижено глобальное время восстановления.</i></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+</skills>

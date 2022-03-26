@@ -1,0 +1,190 @@
+/*Нападение*/
+.version-500 .eferund-0 .bSkill.sid-12,
+.version-500 .eferund-0 .bSkill.sid-5,
+.version-500 .eferund-0 .bSkill.sid-6,
+.version-501 .eferund-0 .bSkill.sid-12,
+.version-501 .eferund-0 .bSkill.sid-5,
+.version-501 .eferund-0 .bSkill.sid-6,
+.version-502 .eferund-0 .bSkill.sid-12,
+.version-502 .eferund-0 .bSkill.sid-5,
+.version-502 .eferund-0 .bSkill.sid-6,
+.version-503 .eferund-0 .bSkill.sid-12,
+.version-503 .eferund-0 .bSkill.sid-5,
+.version-503 .eferund-0 .bSkill.sid-6,
+.version-551 .eferund-0 .bSkill.sid-5,
+.version-551 .eferund-0 .bSkill.sid-6
+{
+    display:none !important;
+}
+
+/*Оборона*/
+.version-500 .eferund-1 .bSkill.sid-5,
+.version-500 .eferund-1 .bSkill.sid-9,
+.version-500 .eferund-1 .bSkill.sid-10,
+.version-501 .eferund-1 .bSkill.sid-5,
+.version-501 .eferund-1 .bSkill.sid-9,
+.version-501 .eferund-1 .bSkill.sid-10,
+.version-502 .eferund-1 .bSkill.sid-5,
+.version-502 .eferund-1 .bSkill.sid-9,
+.version-502 .eferund-1 .bSkill.sid-10,
+.version-503 .eferund-1 .bSkill.sid-5,
+.version-503 .eferund-1 .bSkill.sid-9,
+.version-503 .eferund-1 .bSkill.sid-10,
+.version-551 .eferund-1 .bSkill.sid-9,
+.version-551 .eferund-1 .bSkill.sid-10
+{
+    display:none !important;
+}
+
+/*Мистицизм*/
+.version-500 .eferund-2 .bSkill.sid-5,
+.version-500 .eferund-2 .bSkill.sid-2,
+.version-501 .eferund-2 .bSkill.sid-5,
+.version-501 .eferund-2 .bSkill.sid-2,
+.version-502 .eferund-2 .bSkill.sid-5,
+.version-502 .eferund-2 .bSkill.sid-2,
+.version-503 .eferund-2 .bSkill.sid-5,
+.version-503 .eferund-2 .bSkill.sid-2,
+.version-551 .eferund-2 .bSkill.sid-2
+{
+    display:none !important;
+}
+
+/*Волшебство*/
+.version-500 .eferund-3 .bSkill.sid-12,
+.version-500 .eferund-3 .bSkill.sid-9,
+.version-500 .eferund-3 .bSkill.sid-5,
+.version-501 .eferund-3 .bSkill.sid-12,
+.version-501 .eferund-3 .bSkill.sid-9,
+.version-501 .eferund-3 .bSkill.sid-5,
+.version-502 .eferund-3 .bSkill.sid-12,
+.version-502 .eferund-3 .bSkill.sid-9,
+.version-502 .eferund-3 .bSkill.sid-5,
+.version-503 .eferund-3 .bSkill.sid-12,
+.version-503 .eferund-3 .bSkill.sid-9,
+.version-503 .eferund-3 .bSkill.sid-5,
+.version-551 .eferund-3 .bSkill.sid-9,
+.version-551 .eferund-3 .bSkill.sid-5
+{
+    display:none !important;
+}
+
+/*Воодушевление*/
+.version-500 .eferund-4 .bSkill.sid-5,
+.version-500 .eferund-4 .bSkill.sid-1,
+.version-500 .eferund-4 .bSkill.sid-4,
+.version-501 .eferund-4 .bSkill.sid-5,
+.version-501 .eferund-4 .bSkill.sid-1,
+.version-501 .eferund-4 .bSkill.sid-4,
+.version-502 .eferund-4 .bSkill.sid-5,
+.version-502 .eferund-4 .bSkill.sid-1,
+.version-502 .eferund-4 .bSkill.sid-4,
+.version-503 .eferund-4 .bSkill.sid-5,
+.version-503 .eferund-4 .bSkill.sid-1,
+.version-503 .eferund-4 .bSkill.sid-4,
+.version-551 .eferund-4 .bSkill.sid-1,
+.version-551 .eferund-4 .bSkill.sid-4
+{
+    display:none !important;
+}
+
+/*Гипноз*/
+.version-500 .eferund-5 .bSkill.sid-5,
+.version-500 .eferund-5 .bSkill.sid-9,
+.version-501 .eferund-5 .bSkill.sid-5,
+.version-501 .eferund-5 .bSkill.sid-9,
+.version-502 .eferund-5 .bSkill.sid-5,
+.version-502 .eferund-5 .bSkill.sid-9,
+.version-503 .eferund-5 .bSkill.sid-5,
+.version-503 .eferund-5 .bSkill.sid-9,
+.version-551 .eferund-5 .bSkill.sid-9
+{
+    display:none !important;
+}
+
+	/*Сопротивление*/
+.version-500 .eferund-6 .bSkill.sid-5,
+.version-500 .eferund-6 .bSkill.sid-4,
+.version-501 .eferund-6 .bSkill.sid-5,
+.version-501 .eferund-6 .bSkill.sid-4,
+.version-502 .eferund-6 .bSkill.sid-5,
+.version-502 .eferund-6 .bSkill.sid-4,
+.version-503 .eferund-6 .bSkill.sid-5,
+.version-504 .eferund-6 .bSkill.sid-4,
+.version-551 .eferund-6 .bSkill.sid-4
+{
+    display:none !important;
+}
+
+	/*Преследование*/
+.version-500 .eferund-7 .bSkill.sid-1,
+.version-500 .eferund-7 .bSkill.sid-12,
+.version-500 .eferund-7 .bSkill.sid-10,
+.version-501 .eferund-7 .bSkill.sid-1,
+.version-501 .eferund-7 .bSkill.sid-12,
+.version-501 .eferund-7 .bSkill.sid-10,
+.version-502 .eferund-7 .bSkill.sid-1,
+.version-502 .eferund-7 .bSkill.sid-12,
+.version-502 .eferund-7 .bSkill.sid-10,
+.version-503 .eferund-7 .bSkill.sid-1,
+.version-503 .eferund-7 .bSkill.sid-12,
+.version-503 .eferund-7 .bSkill.sid-10,
+.version-551 .eferund-7 .bSkill.sid-12,
+.version-551 .eferund-7 .bSkill.sid-10
+{
+    display:none !important;
+}
+
+	/*Скрытность*/
+.version-500 .eferund-8 .bSkill.sid-9,
+.version-500 .eferund-8 .bSkill.sid-2,
+.version-501 .eferund-8 .bSkill.sid-9,
+.version-501 .eferund-8 .bSkill.sid-2,
+.version-502 .eferund-8 .bSkill.sid-9,
+.version-502 .eferund-8 .bSkill.sid-2,
+.version-503 .eferund-8 .bSkill.sid-9,
+.version-503 .eferund-8 .bSkill.sid-2,
+.version-551 .eferund-8 .bSkill.sid-2
+{
+    display:none !important;
+}
+
+	/*Исцеление*/
+.version-500 .eferund-9 .bSkill.sid-1,
+.version-500 .eferund-9 .bSkill.sid-12,
+.version-500 .eferund-9 .bSkill.sid-6,
+.version-501 .eferund-9 .bSkill.sid-1,
+.version-501 .eferund-9 .bSkill.sid-12,
+.version-501 .eferund-9 .bSkill.sid-6,
+.version-502 .eferund-9 .bSkill.sid-1,
+.version-502 .eferund-9 .bSkill.sid-12,
+.version-502 .eferund-9 .bSkill.sid-6,
+.version-503 .eferund-9 .bSkill.sid-1,
+.version-503 .eferund-9 .bSkill.sid-12,
+.version-503 .eferund-9 .bSkill.sid-6,
+.version-551 .eferund-9 .bSkill.sid-12,
+.version-551 .eferund-9 .bSkill.sid-6
+{
+    display:none !important;
+}
+
+
+	/*Гнев*/
+.version-500 .eferund-g .bSkill.sid-1,
+.version-500 .eferund-g .bSkill.sid-12,
+.version-500 .eferund-g .bSkill.sid-3,
+.version-500 .eferund-g .bSkill.sid-8,
+.version-501 .eferund-g .bSkill.sid-12,
+.version-501 .eferund-g .bSkill.sid-3,
+.version-501 .eferund-g .bSkill.sid-8,
+.version-502 .eferund-g .bSkill.sid-12,
+.version-502 .eferund-g .bSkill.sid-3,
+.version-502 .eferund-g .bSkill.sid-8,
+.version-503 .eferund-g .bSkill.sid-12,
+.version-503 .eferund-g .bSkill.sid-3,
+.version-503 .eferund-g .bSkill.sid-8,
+.version-551 .eferund-g .bSkill.sid-3,
+.version-551 .eferund-g .bSkill.sid-8
+{
+    display:none !important;
+}

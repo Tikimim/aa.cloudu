@@ -1,0 +1,651 @@
+<skills>
+	<skill>
+		<index>1</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Камертон</p>
+			<p class="name-type">Воодушевление</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>94</span></p>
+			<p>Дальность <span>0-20 м</span></p>
+			<p>Сила заклинания <span>+130%</span></p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>16 сек.</span></p>
+		</div>
+		<div class="desc">
+			<img src="icon_buff/buff515.png" class="effect-icon" width="28" />
+			<p>Наносит цели <span>(691 + 130% от силы заклинаний)</span> ед. урона 
+			и накладывает эффект <span>«Резонанс»</span>, действующий в течении <span>5 сек.</span></p>
+			<p>Резонанс снижает показатели защиты и сопротивления цели на <span>15%.</span></p>
+		</div>
+		<div class="effect">
+			<img src="icon_buff/buff76.png" class="effect-icon" width="28" />
+			<p>Если цель находится под воздействием [диссонанса], длительность 
+			действия [резонанса] увеличивается на <span>50%.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>2</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Чарующая песня</p>
+			<p class="name-type">Воодушевление</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>28</span></p>
+			<p>Дальность <span>0-15 м</span></p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>18 сек.</span></p>
+		</div>
+		<div class="desc">
+			<img src="icon_buff/buff55.png" class="effect-icon" width="28" />
+			<img src="icon_buff/buff75.png" class="effect-icon" width="28" />
+			<p><span>Обездвиживает</span> противника на <span>2 сек.</span> 
+			По окончании действия обездвиживания цель становится <span>очарованной.</span> 
+			Умения непрерывного исполнения на <span>28 сек.</span> накладывают 
+			на очарованного противника негативные эффекты, зависящие от умения.</p>
+			<p><i>Не прерывает дейсвтие умений непрерывного исполнения.</i></p>
+		</div>
+		<div class="effect">
+			<img src="icon_buff/buff76.png" class="effect-icon" width="28" />
+			<p>Если цель находится под воздействием [диссонанса], длительность 
+			действия [резонанса] увеличивается на <span>50%.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>3</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Походный марш</p>
+			<p class="name-type">Воодушевление</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>162</span></p>
+			<p>Выбор цели не требуется.</p>
+			<p>Мгновенное применение.</p>
+			<p>Восстановление <span>2 сек.</span></p>
+		</div>
+		<div class="desc">
+			<p><i>[Непрерывное исполнение]</i></p>
+			<p>Повышает скорость передвижения заклинателя и <span>30</span> соратников в радиусе <span>10 м</span> 
+			на <span>20-28%.</span> Длительность действия эффекта составляет <span>15 сек.</span></p>
+			<p><i>Чем дольше применяется это умение, тем сильнее его эффект.</i></p>
+			<p><i>Суммируется с эффектами других мелодий непрерывного исполнения и делит с ними время восстановления.<i></p>
+		</div>
+		<div class="effect">
+			<img src="icon_buff/buff75.png" class="effect-icon" width="28" />
+			<img src="icon_buff/buff04.png" class="effect-icon" width="28" />
+			<p>Замедляет [очарованных], противников на <span>50%.</span></p>
+		</div>
+		<div class="effect">
+			<img src="icon_buff/buff76.png" class="effect-icon" width="28" />
+			<p>Снижает сноровку целей на <span>100 ед.,</span> находящихся под воздействием [диссонанса].</p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>4</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Диссонанс</p>
+			<p class="name-type">Воодушевление</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>155</span></p>
+			<p>Дальность <span>0-20 м</span></p>
+			<p>Сила заклинания <span>+140%</span></p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>30 сек.</span></p>
+		</div>
+		<div class="desc">
+			<p>Снижает урон умений противника <span>35%</span>. 
+			Эффект рассеивается через <span>6 сек.,</span> нанося 
+			<span>(1161 + 140% от силы заклинаний)</span> ед. урона.</p>
+			<p>Не прерывает действие умений непрерывного исполнения.</p>
+		</div>
+		<div class="effect">
+			<img src="icon_buff/buff515.png" class="effect-icon" width="28" />
+			<p>Если цель под воздействием [резонанса] блокирует оружие в левой руке на <span>6 сек.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>5</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Неистовый танец</p>
+			<p class="name-type">Воодушевление</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>29</span></p>
+			<p>Выбор цели не требуется</p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>28 сек.</span></p>
+		</div>
+		<div class="desc">
+			<p>Скорость передвижения заклинателя стремительно повышается до <span>200%.</span> 
+			Длительность действия эффекта составляет <span>2 сек.</span></p>
+			<p><i>У этого умения снижено глобальное время восстановления.</i></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>6</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Песнь исцеления</p>
+			<p class="name-type">Воодушевление</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>176</span></p>
+			<p>Выбор цели не требуется.</p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>2 сек.</span></p>
+		</div>
+		<div class="desc">
+			<p><i>[Непрерывное исполнение]</i></p>
+			<p>Восстанавливает здоровье заклинателя и <span>30</span> соратников в радиусе <span>10 м,</span> 
+			на <span>215 ед.</span> здоровья раз в <span>3 сек.</span>
+			Длительность действия эффекта составляет <span>15 сек.</span></p>
+			<p><i>Суммируется с эффектами других мелодий непрерывного исполнения.</i></p>
+		</div>
+		<div class="effect">
+			<img src="icon_buff/buff75.png" class="effect-icon" width="28" />
+			<p>Наносит периодический урон [очарованным] противникам.</p>
+		</div>
+		<div class="effect">
+			<img src="icon_buff/buff76.png" class="effect-icon" width="28" />
+			<p>Если цель находится под воздействием [диссонанса], снижает 
+			восприимчивость к исцелению на <span>30%.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>7</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Исцеляющий хор</p>
+			<p class="name-type">Воодушевление</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>307</span></p>
+			<p>Радиус действия <span>0-30 м</span></p>
+			<p>Эффективность исцеления <span>+0%</span></p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>15 сек.</span></p>
+		</div>
+		<div class="desc">
+			<p>Мгновенно восстанавливает <span>(1123 + 0% от эффективности исцеления)</span> ед. здоровья. 
+			цель подхватывает песню, исцеляя <span>2</span> соратников в радиусе <span>10 м,</span> 
+			и они тоже присоединяются к хору. Эффект передается до <span>3 раз.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>8</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Власть ритма</p>
+			<p class="name-type">Воодушевление</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>52</span></p>
+			<p>Выбор цели не требуется.</p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>8 сек.</span></p>
+		</div>
+		<div class="desc">
+			<p>Повышает вероятность нанесения критического урона и  
+			и вероятность критического эффекта исцеления на <span>1%,</span> и сокращает время 
+			восстановления умений специализации «Воодушевление» на <span>0.4 сек.</span></p>
+			<p>Эффект суммируется до <span>15 раз.</span></p>
+			<p>Длительность действия эффекта составляет <span>9 сек.</span></p>
+			<p><i>Не активирует глобальное время восстановления способностей.</i></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>9</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Гимн земли</p>
+			<p class="name-type">Воодушевление</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>151</span></p>
+			<p>Выбор цели не требуется</p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>2 сек.</span></p>
+		</div>
+		<div class="desc">
+			<p><i>[Непрерывное исполнение]</i></p>
+			<p>Повышает защиту и сопротивление заклинателя и <span>30</span> соратников в радиусе <span>10 м</span> 
+			на <span>1600-2400 ед.</span> Длительность дейсвтия эффекта составляет <span>15 сек.</span></p>
+			<p><i>Чем дольше применяется это умение, тем сильнее его эффект.</i></p>
+			<p><i>Суммируется с эффектами других мелодий непрерывного исполнения и делит с ними время восстановления.</i></p>
+		</div>
+		<div class="effect">
+			<img src="icon_buff/buff75.png" class="effect-icon" width="28" />
+			<p>Снижает защиту и сопротивление [очарованных] противников на <span>50%.</span></span></p>
+		</div>
+		<div class="effect">
+			<img src="icon_buff/buff76.png" class="effect-icon" width="28" />
+			<p>Если цель находится под воздействием [диссонанса] 
+			снижает показатели пробивания брони и игнорирования сопротивления на <span>10%.</span></span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>10</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Звук горна</p>
+			<p class="name-type">Воодушевление</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>170</span></p>
+			<p>Выбор цели не требуется</p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>45 сек.</span></p>
+		</div>
+		<div class="desc">
+			<p>Звук горна приводит цель в растерянность, не позволяя ей выбирать противников
+			в цель.</p>
+			<p>Срабатывает только в сражении с другими игроками. Эффект накладывается на всех 
+			противников на расстоянии <span>15 м</span> перед заклинателем. Длительность действия 
+			эффекта составляет <span>5 сек.</span></p>
+			<p><i>У этого умения снижено глобальное время восстановления.</i></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>11</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Рапсодия битвы</p>
+			<p class="name-type">Воодушевление</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>228</span></p>
+			<p>Выбор цели не требуется.</p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>2 сек.</span></p>
+		</div>
+		<div class="desc">
+			<p><i>[Непрерывное исполнение]</i></p>
+			<p>Повышает урон умений заклинателя и <span>30</span> соратников в радиусе <span>10 м</span>, 
+			на <span>18-26%,</span> а показатель сноровки - на <span>282 ед.</span> 
+			Длительность дейсвтия эффекта составляет <span>15 сек.</span></p>
+			<p><i>Чем дольше применяется это умение, тем сильнее его эффект.</i></p>
+			<p><i>Суммируется с эффектами других мелодий непрерывного исполнения и делит с ними время восстановления.</i></p>
+		</div>
+		<div class="effect">
+			<img src="icon_buff/buff75.png" class="effect-icon" width="28" />
+			<p>Снижает урон умений у [очарованных] противников на <span>20%.</span></p>
+		</div>
+		<div class="effect">
+			<img src="icon_buff/buff76.png" class="effect-icon" width="28" />
+			<p>Под воздействием [диссонанса] точность всех атак цели снижается на <span>10%.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>12</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Симфония жизни</p>
+			<p class="name-type">Исцеление</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>355</span></p>
+			<p>Дальность <span>0-50 м</span></p>
+			<p>Радиус действия <span>30 м</span></p>
+			<p>Время применения<span>4.0 сек.</span></p>
+			<p>Восстановление <span>2 мин.</span></p>
+		</div>
+		<div class="desc">
+			<p>Повышает сноровку на <span>350 ед.</span>, а скорость передвижения - на <span>30%.</span> 
+			Длительность дейсвтия эффекта составляет <span>30 сек.</span>.</p>
+			<p>Симфония жизни воздействует на заклинателя и всех соратников в области действия умения.</p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>13</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Мощный аккорд</p>
+			<p class="name-type">Воодушевление</p>
+		</div>
+		<div class="info">
+			<p>Активируется на 55 уровне гнева</p>
+			<p>Пассивное умение</p>
+		</div>
+		<div class="desc">
+			<p>Умения <span>«Камертон»</span> и <span>«Диссонанс»</span> всегда попадают в цель.</p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>14</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Долгая мелодия</p>
+			<p class="name-type">Воодушевление</p>
+		</div>
+		<div class="info">
+			<p>Пассивное умение</p>
+		</div>
+		<div class="desc">
+			<p>Повышает длительность действия умений непрерывного исполнения на <span>15 сек.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>15</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Ликование</p>
+			<p class="name-type">Воодушевление</p>
+		</div>
+		<div class="info">
+			<p>Пассивное умение</p>
+		</div>
+		<div class="desc">
+			<p>При нанесении критического урона или критическом эффекте исцеления сила критического 
+			урона и критического эффекта исцеления повышается на <span>50%</span> в течение <span>5 сек.</span></p>
+			<p>Восстановление <span>12 сек.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>16</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Аллегро</p>
+			<p class="name-type">Воодушевление</p>
+		</div>
+		<div class="info">
+			<p>Пассивное умение</p>
+		</div>
+		<div class="desc">
+			<p>При применении умений непрерывного исполнения каждые <span>3 сек.</span> накапливается 
+			эффект <span>«Власть ритма»</span>. Дополнительно при применении одноименного умения накапливается <span>2</span> 
+			уровня эффекта <span>«Власть ритма»</span>.
+			При достижении максимального уровня эффект <span>«Власть ритма»</span> на <span>20 сек.</span> преобразуется 
+			в эффект <span>«Крещендо»</span>, повышающий вероятность нанесения критического урона и вероятность критического 
+			эффекта исцеления на <span>15%</span>, и сокращающий время восстановления умений специализации 
+			«Воодушевление» на <span>6 сек.</span>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>17</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Дисгармония</p>
+			<p class="name-type">Воодушевление</p>
+		</div>
+		<div class="info">
+			<p>Пассивное умение</p>
+		</div>
+		<div class="desc">
+			<p>Повышает длительность действия негативных эффектов умений непрерывного исполнения на <span>3 сек.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>18</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Сила струн</p>
+			<p class="name-type">Воодушевление</p>
+		</div>
+		<div class="info">
+			<p>Пассивное умение</p>
+		</div>
+		<div class="desc">
+			<p>Увеличивает радиус действия непрерывного исполнения до <span>25 м.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	
+	<skill>
+		<index>422</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Чарующая песня</p>
+			<p class="name-type">Воодушевление [Жизнь]</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>14</span></p>
+			<p>Дальность <span>0-15 м</span></p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>18 сек.</span></p>
+		</div>
+		<div class="desc">
+			<img src="icon_buff/buff405.png" class="effect-icon" width="28" />
+			<p>Усиливает положительные эффекты умений непрерывного исполнения на <span>30%.</span> 
+			Длительность действия эффекта составляет <span>28 сек.</span> 
+			Данное умение можно применять к себе или соратнику</p>
+			<p><i>Не прерывает дейсвтие умений непрерывного исполнения.</i></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>425</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Чарующая песня</p>
+			<p class="name-type">Воодушевление [Вода]</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>14</span></p>
+			<p>Дальность <span>0-15 м</span></p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>24 сек.</span></p>
+		</div>
+		<div class="desc">
+			<img src="icon_buff/buff75.png" class="effect-icon" width="28" />
+			<p><span>Очаровывает</span> цель <span>24 сек.</span> Умения непрерывного исполнения на 
+			<span>28 сек.</span> накладывают на очарованного противника негативные эффекты, 
+			зависящие от умения.</p>
+			<p>Если противник умирает пока действует эффект очарования, 
+			умение мгновенно восстанавливается.</p>
+			<p><i>Не прерывает дейсвтие умений непрерывного исполнения.</i></p>
+		</div>
+		<div class="effect">
+			<img src="icon_buff/buff76.png" class="effect-icon" width="28" />
+			<p>Если цель находится под воздействием [диссонанса], длительность 
+			действия [резонанса] увеличивается на <span>50%.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+
+	<skill>
+		<index>474</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Исцеляющий хор</p>
+			<p class="name-type">Воодушевление [Порядок]</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>179</span></p>
+			<p>Радиус действия <span>0-20 м</span></p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>23 сек.</span></p>
+		</div>
+		<div class="desc">
+			<img src="icon_buff/buff75.png" class="effect-icon" width="28" />
+			<p>На <span>8 сек.</span> очаровывает цель, которая подхватывает песню, 
+			распространяя эффект еще на <span>2</span> противников в радиусе 
+			<span>10 м,</span> и они тоже присоединяются к хору.</p>
+			<p>Эффект передается до <span>3 раз.</span></p>
+			<p>Умения непрерывного исполнения накладывают на очарованные цели 
+			негативные эффекты, зависящие от умения.</p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>475</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Исцеляющий хор</p>
+			<p class="name-type">Воодушевление [Вода]</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>179</span></p>
+			<p>Радиус действия <span>0-30 м</span></p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>15 сек.</span></p>
+		</div>
+		<div class="desc">
+			<p>Мгновенно восстанавливает цели <span>168 ед.</span> маны. 
+			Цель подхватывает песню, распространяя эффект на <span>2</span> 
+			соратников в радиусе <span>10 м,</span> и они тоже присоединяются к хору.</p>
+			<p>Эффект передается до <span>3 раз.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+
+	<skill>
+		<index>4102</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Звук горна</p>
+			<p class="name-type">Воодушевление [Жизнь]</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>170</span></p>
+			<p>Выбор цели не требуется</p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>45 сек.</span></p>
+		</div>
+		<div class="desc">
+			<p>Рассеивает по одному отрицательному эффекту с каждого соратника на расстоянии 
+			<span>15 м</span> перед заклинателем.</p>
+			<p><i>У этого умения снижено глобальное время восстановления.</i></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>4104</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Звук горна</p>
+			<p class="name-type">Воодушевление [Порядок]</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>170</span></p>
+			<p>Выбор цели не требуется</p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>45 сек.</span></p>
+		</div>
+		<div class="desc">
+			<p>Накладывает на соратников на расстоянии <span>15 м</span> перед заклинателем эффект, 
+			не позволяющий противникам выбрать их в цель в течение <span>5 сек.</span></p>
+			<p>Срабатывает только в сражении с другими игроками.</p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+
+	<skill>
+		<index>451</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Неистовый танец</p>
+			<p class="name-type">Воодушевление [Огонь]</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>29</span></p>
+			<p>Выбор цели не требуется</p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>28 сек.</span></p>
+		</div>
+		<div class="desc">
+			<p>Скорость передвижения заклинателя стремительно повышается до <span>130%.</span> 
+			Длительность действия эффекта составляет <span>2 сек.</span></p>
+			<p>При получении урона под воздействием данного умения, время 
+			действия умения обновляется.</p>
+			<p><i>У этого умения снижено глобальное время восстановления.</i></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>455</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Неистовый танец</p>
+			<p class="name-type">Воодушевление [Вода]</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>29</span></p>
+			<p>Выбор цели не требуется</p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>40 сек.</span></p>
+		</div>
+		<div class="desc">
+			<p>Скорость передвижения заклинателя стремительно повышается до <span>80%.</span> 
+			Длительность действия эффекта составляет <span>1 сек.</span> 
+			Время действия умения продлевается на <span>1 сек.</span> за каждую играемую мелодию. 
+			Суммируется до <span>5 сек.</span></p>
+			<p><i>У этого умения снижено глобальное время восстановления.</i></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+</skills>

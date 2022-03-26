@@ -1,0 +1,697 @@
+<skills>
+	<skill>
+		<index>1</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Азарт мстителя</p>
+			<p class="name-type">Преследование</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>5</span></p>
+			<p>Дальность <span>0-25 м</span></p>
+			<p>Сила атаки в дальнем бою <span>+50%</span></p>
+			<p>Мгновенное применение</p>
+		</div>
+		<div class="desc">
+			<p>Наносит цели урон в размере <span>(0 + 50% от силы в дальнем бою).</span></p>
+			<p><i>У этого умения снижено глобальное время восстановления.</i></p>
+			<p><i>При удерживании клавиши умения оно применяется непрерывно.</i></p>
+		</div>
+		<div class="effect">
+			<img src="icon_buff/buff04.png" class="effect-icon" width="28" />
+			<p>Если цель [замедлена], урон повышается на <span>26%.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>2</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Оглушающий выстрел</p>
+			<p class="name-type">Преследование</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>62</span></p>
+			<p>Дальность <span>0-25 м</span></p>
+			<p>Сила атаки в дальнем бою <span>+300%</span></p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>12 сек.</span></p>
+		</div>
+		<div class="desc">
+			<img src="icon_buff/buff04.png" class="effect-icon" width="28" />
+			<p>Наносит урон в размере <span>(538 + 300% от силы атаки в дальнем бою)</span> ед. 
+			и накладывает эффект <span>замедления</span>, действующий <span>3 сек.</span> Скорость 
+			передвижения замедленной цели снижается на <span>30%.</span></p>
+		</div>
+		<div class="effect">
+			<img src="icon_buff/buff67.png" class="effect-icon" width="28" />
+			<p>Если цель страдает от [кровотечения], урон повышается на <span>36%.</span></p>
+		</div>
+		<div class="effect">
+			<img src="icon_buff/buff04.png" class="effect-icon" width="28" />
+			<img src="icon_buff/buff04.png" class="effect-icon" width="28" />
+			<p>Если цель уже [замедлена], эффект [замедления] усилится на <span>4 сек.</span></p>
+		</div>
+		<div class="effect">
+			<img src="icon_buff/buff95.png" class="effect-icon" width="28" />
+			<img src="icon_buff/buff10.png" class="effect-icon" width="28" />
+			<p>Если цель находится [в воздухе], она будет отброшена и [оглушена] на <span>3 сек.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>3</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Прицельная стрельба</p>
+			<p class="name-type">Преследование</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>71</span></p>
+			<p>Выбор цели не требуется</p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>40 сек.</span></p>
+		</div>
+		<div class="desc">
+			<img src="icon_buff/buff516.png" class="effect-icon" width="28" />
+			<p>Повышает показатель критического урона в дальнем бою на <span>56%</span>, 
+			при этом скорость передвижения персонажа значительно снижается. Показатели 
+			блокирования, парирования и уклонения снижаются на <span>100%.</span></p>
+			<p><i>Не активирует глобальное время восстановления способностей. Повторная 
+			активация клавиши умения отменяет его действие.</i></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>4</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Мощный выстрел</p>
+			<p class="name-type">Преследование</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>71</span></p>
+			<p>Дальность <span>0-10 м</span></p>
+			<p>Сила атаки в дальнем бою <span>+150%</span></p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>45 сек.</span></p>
+		</div>
+		<div class="desc">
+			<p>Наносит <span>(720 + 150% от силы атаки в дальнем бою)</span> ед. урона 
+			и отбрасывая цель на <span>15 м.</span> назад и парализуя ее на <span>0.3 сек.</span></p>
+			<p><i>Это выстрел нельзя заблокировать. От него невозможно уклониться.</i></p>
+		</div>
+		<div class="effect">
+			<img src="icon_buff/buff509.png" class="effect-icon" width="28" />
+			<img src="icon_buff/buff141.png" class="effect-icon" width="28" />
+			<p>Если цель [ослеплена], на нее будет наложен эффект [слабая воля] на <span>7 сек.</span></p>
+		</div>
+		<div class="effect">
+			<img src="icon_buff/buff57.png" class="effect-icon" width="28" />
+			<p>Если цель отмечена [меткой убийцы], она будет отброшена на <span>на 5 м</span> дальше.</p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>5</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Ослепляющий выстрел</p>
+			<p class="name-type">Преследование</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>72</span></p>
+			<p>Дальность <span>0-25 м</span></p>
+			<p>Сила атаки в дальнем бою <span>+180%</span></p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>9 сек.</span></p>
+		</div>
+		<div class="desc">
+			<img src="icon_buff/buff509.png" class="effect-icon" width="28" />
+			<p>Наносит <span>(528 + 180% от силы атаки в дальнем бою)</span> ед. урона 
+			и <span>ослепляет</span> цель на <span>10 сек.</span> Точность атак ослепленной цели 
+			снижается на <span>4%.</span></p>
+			<p>Эффект суммируется до <span>4 раз.</span></p>
+			<p><i>Это умение всегда наносит критический урон.</i></p>
+			<p><i>При использовании всех 3х зарядов под воздействием умения «прицельная стрельба» 
+			время восстановления умения будет увеличено до 16 сек.</i></p>
+		</div>
+		<div class="effect">
+			<img src="icon_buff/buff67.png" class="effect-icon" width="28" />
+			<p>Если цель страдает от [кровотечения], урон повышается на <span>27%.</span></p>
+		</div>
+		<div class="effect">
+			<img src="icon_buff/buff57.png" class="effect-icon" width="28" />
+			<img src="icon_buff/buff67.png" class="effect-icon" width="28" />
+			<p>Если цель отмечена [меткой убийцы], у нее откроется [кровотечение] на <span>14 сек.</span></p>
+		</div>
+		<div class="effect">
+			<img src="icon_buff/buff516.png" class="effect-icon" width="28" />
+			<p>Если вы находитесь под воздействием [Прицельной стрельбы], накапливает до <span>3х зарядов.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>6</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Капкан</p>
+			<p class="name-type">Преследование</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>97</span></p>
+			<p>Выбор цели не требуется</p>
+			<p>Радиус действия <span>5 м</span></p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>24 сек.</span></p>
+		</div>
+		<div class="desc">
+			<img src="icon_buff/buff55.png" class="effect-icon" width="28" />
+			<p><span>Обездвиживает</span> противников в области действия умения 
+			на <span>7.2 сек.</span></p>
+			<p>При сражении с другими игроками длительность действия обездвиживания 
+			сокращается вдвое.</p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>7</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Стойка лучника</p>
+			<p class="name-type">Преследование</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>62</span></p>
+			<p>Выбор цели не требуется</p>
+			<p>Время применения <span>1.0 сек.</span></p>
+			<p>Восстановление <span>1 мин. 20 сек.</span></p>
+		</div>
+		<div class="desc">
+			<p>Принимает стойку лучника на <span>60 сек.</span> и увеличивает дальность атаки 
+			дальнего боя на <span>2 м.</span> Увеличивает силу атаки на <span>100/150/200/250/300/350 ед.</span> 
+			пропорционально дистанции до цели. [Перевод может быть не точным!]</p>
+			<p>Это умение можно применить во время глобального восстановления способностей.</p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>8</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Разрывной выстрел</p>
+			<p class="name-type">Преследование</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>327</span></p>
+			<p>Дальность <span>0-25 м</span></p>
+			<p>Радиус действия <span>6 м</span></p>
+			<p>Сила атаки в дальнем бою <span>+375%</span></p>
+			<p>Время применения <span>1.5 сек.</span></p>
+			<p>Восстановление <span>30 сек.</span></p>
+		</div>
+		<div class="desc">
+			<img src="icon_buff/buff16.png" class="effect-icon" width="28" />
+			<p>Наносит противникам в области действия умения до 
+			<span>(1197 + 375% от силы атаки в дальнем бою)</span> ед. урона 
+			и заставляет их <span>онеметь</span> на <span>3.5 сек.</span> Эффект немоты 
+			препятствует чтению заклинаний.</p>
+			<p><i>Этот выстрел нельзя заблокировать. От него невозможно уклониться.</i></p>
+		</div>
+		<div class="effect">
+			<img src="icon_buff/buff67.png" class="effect-icon" width="28" />
+			<p>Пробивание брони увеличивается на <span>20%</span> за каждый уровень [кровотечения] на цели.</p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>9</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Инстинкт выживания</p>
+			<p class="name-type">Преследование</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>71</span></p>
+			<p>Выбор цели не требуется</p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>60 сек.</span></p>
+		</div>
+		<div class="desc">
+			<p>Снижает уровень угрозы на <span>50%</span> и мгновенно восстанавливает 
+			«Капкан» и «Мощный выстрел». Длительность действия эффекта составляет <span>10 сек.</span></p>
+			<p><i>Не активирует глобальное время восстановления способностей.</i></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>10</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Дух сокола</p>
+			<p class="name-type">Преследование</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>110</span></p>
+			<p>Выбор цели не требуется</p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>1 мин. 30 сек.</span></p>
+		</div>
+		<div class="desc">
+			<p>Повышает вероятность критического удара в дальнем бою на <span>20%.</span> 
+			Длительность действия эффекта составляет <span>20 сек.</span></p>
+			<p><i>Не активирует глобальное время восстановления способностей.</i></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>11</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Ливень стрел</p>
+			<p class="name-type">Преследование</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>173</span></p>
+			<p>Дальность <span>10-50 м</span></p>
+			<p>Радиус действия <span>7 м</span></p>
+			<p>Сила атаки в дальнем бою <span>+140%</span></p>
+			<p>Время применения <span>2.0 сек.</span></p>
+			<p>Восстановление <span>22 сек.</span></p>
+		</div>
+		<div class="desc">
+			<p>Выпускает град стрел, который наносит <span>10</span> противникам 
+			до <span>(211 + 140% от силы атаки в дальнем бою)</span> 
+			ед. урона противникам в области действия умения.</p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>12</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Беспощадный выстрел</p>
+			<p class="name-type">Преследование</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>299</span></p>
+			<p>Дальность <span>0-45 м</span></p>
+			<p>Сила атаки в дальнем бою <span>+600%</span></p>
+			<p>Время применения <span>2.0 сек.</span></p>
+			<p>Восстановление <span>27 сек.</span></p>
+		</div>
+		<div class="desc">
+			<p>Наносит <span>(1094 + 600% от силы атаки в дальнем бою)</span> ед. урона. 
+			Это умение обладает высокой дальностью действия.</p>
+		</div>
+		<div class="effect">
+			<img src="icon_buff/buff55.png" class="effect-icon" width="28" />
+			<img src="icon_buff/buff01.png" class="effect-icon" width="28" />
+			<p>Если цель [обездвижена], она будет [сбита с ног] на <span>3.1 сек.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>13</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Инстинкт хищника</p>
+			<p class="name-type">Преследование</p>
+		</div>
+		<div class="info">
+			<p>Пассивное умение</p>
+		</div>
+		<div class="desc">
+			<p>Скорость передвижения повышается на <span>8%.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>14</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Непоколебимость</p>
+			<p class="name-type">Преследование</p>
+		</div>
+		<div class="info">
+			<p>Пассивное умение</p>
+		</div>
+		<div class="desc">
+			<p>При применении умений «Прицельная стрельба», «Стойка лучника» и 
+			«Дух сокола» длительность действия эффектов обезоруживания 
+			снижается на <span>40%.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>15</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Орлиный глаз</p>
+			<p class="name-type">Преследование</p>
+		</div>
+		<div class="info">
+			<p>Пассивное умение</p>
+		</div>
+		<div class="desc">
+			<p>Оптимальная точка для применения умений специализации <span>«Преследование»</span> 
+			устанавливается на расстоянии <span>25 м</span> от цели. По мере 
+			прилижения к этой точке, урон умений дальнего боя повышается вплоть до <span>20%.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>16</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Свирепость зверя</p>
+			<p class="name-type">Преследование</p>
+		</div>
+		<div class="info">
+			<p>Пассивное умение</p>
+		</div>
+		<div class="desc">
+			<p>При нанесении критического урона умениями специализации <span>«Преследование»</span> 
+			на заклинателя на <span>9 сек.</span> накладывает эффект <span>«Устрашающий натиск»</span>. 
+			Данный эффект повышает показатель сноровки на <span>40 ед.</span> и снижает 
+			время восстановления умений специализации <span>«Преследование»</span> на <span>0.4 сек.</span> 
+			Эффект суммируется до <span>5 раз.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>17</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Снайпер</p>
+			<p class="name-type">Преследование</p>
+		</div>
+		<div class="info">
+			<p>Пассивное умение</p>
+		</div>
+		<div class="desc">
+			<p>Повышает урон умений специализации <span>«Преследование»</span> на <span>10%.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>18</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Хладнокровие преследователя</p>
+			<p class="name-type">Преследование</p>
+		</div>
+		<div class="info">
+			<p>Пассивное умение</p>
+		</div>
+		<div class="desc">
+			<p>Вероятность нанести критический урон в дальнем бою повышается на <span>9%.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	
+	
+	<skill>
+		<index>721</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Оглушающий выстрел</p>
+			<p class="name-type">Преследование [Огонь]</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>8</span></p>
+			<p>Дальность <span>0-17 м</span></p>
+			<p>Сила атаки в дальнем бою <span>+300%</span></p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>12 сек.</span></p>
+		</div>
+		<div class="desc">
+			<img src="icon_buff/buff04.png" class="effect-icon" width="28" />
+			<p>Наносит <span>(73 + 300% от силы атаки в дальнем бою)</span> ед. урона 
+			и накладывает эффект </span>замедления</span>, действующий <span>3 сек.</span> 
+			Скорость передвижения замедленной цели снижается на <span>30%</span></p>
+			<p>Если цель находится в радиусе <span>8 м,</span> наносимый урон повышается на <span>30%.</span></p>
+		</div>
+		<div class="effect">
+			<img src="icon_buff/buff67.png" class="effect-icon" width="28" />
+			<p>Если цель страдает от [кровотечения], урон повышается на <span>36%.</span></p>
+		</div>
+		<div class="effect">
+			<img src="icon_buff/buff04.png" class="effect-icon" width="28" />
+			<img src="icon_buff/buff04.png" class="effect-icon" width="28" />
+			<p>Если цель уже [замедлена], эффект [замедления] усилится на <span>4 сек.</span></p>
+		</div>
+		<div class="effect">
+			<img src="icon_buff/buff95.png" class="effect-icon" width="28" />
+			<img src="icon_buff/buff10.png" class="effect-icon" width="28" />
+			<p>Если цель находится [в воздухе], она будет отброшена и [оглушена] на <span>3 сек.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>727</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Оглушающий выстрел</p>
+			<p class="name-type">Преследование [Воздух]</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>5</span></p>
+			<p>Дальность <span>0-25 м</span></p>
+			<p>Сила атаки в дальнем бою <span>+150%</span></p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>6 сек.</span></p>
+		</div>
+		<div class="desc">
+			<img src="icon_buff/buff04.png" class="effect-icon" width="28" />
+			<p>Наносит <span>(38 + 100% от силы атаки в дальнем бою)</span> ед. урона 
+			и накладывает эффект <span>замедления</span>, действующий <span>3 сек.</span> 
+			Скорость передвижения замедленной цели снижается на <span>30%</span></p>
+			<p>Время восстановления данного умения меньше, чем базового.</p>
+		</div>
+		<div class="effect">
+			<img src="icon_buff/buff67.png" class="effect-icon" width="28" />
+			<p>Если цель страдает от [кровотечения], урон повышается на <span>36%.</span></p>
+		</div>
+		<div class="effect">
+			<img src="icon_buff/buff04.png" class="effect-icon" width="28" />
+			<img src="icon_buff/buff04.png" class="effect-icon" width="28" />
+			<p>Если цель уже [замедлена], эффект [замедления] усилится на <span>4 сек.</span></p>
+		</div>
+		<div class="effect">
+			<img src="icon_buff/buff95.png" class="effect-icon" width="28" />
+			<img src="icon_buff/buff10.png" class="effect-icon" width="28" />
+			<p>Если цель находится [в воздухе], она будет отброшена и [оглушена] на <span>3 сек.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	
+	<skill>
+		<index>781</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Разрывной выстрел</p>
+			<p class="name-type">Преследование [Огонь]</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>226</span></p>
+			<p>Дальность <span>0-25 м</span></p>
+			<p>Радиус действия <span>6 м</span></p>
+			<p>Сила атаки в дальнем бою <span>+400%</span></p>
+			<p>Время применения <span>4.0 сек.</span></p>
+			<p>Восстановление <span>30 сек.</span></p>
+		</div>
+		<div class="desc">
+			<img src="icon_buff/buff16.png" class="effect-icon" width="28" />
+			<p>Прицеливается и выпускает пламенную стрелу, которая наносит противникам 
+			в области действия умения до <span>(826 + 400% от силы атаки в дальнем бою)</span> 
+			ед. урона и заставляет их <span>онеметь</span> на <span>3.5 сек.</span> Эффект немоты 
+			препятствует чтению заклинаний.</p>
+			<p>Чем дольше применяется умение, тем выше наносимый урон. Повторная активация 
+			умения позволяет применять его мгновенно.</p>
+			<p><i>Этот выстрел нельзя заблокировать. От него невозможно уклониться.</i></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>786</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Разрывной выстрел</p>
+			<p class="name-type">Преследование [Смерть]</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>226</span></p>
+			<p>Выбор цели не требуется</p>
+			<p>Радиус действия <span>6 м</span></p>
+			<p>Сила атаки в дальнем бою <span>+250%</span></p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>30 сек.</span></p>
+		</div>
+		<div class="desc">
+			<img src="icon_buff/buff16.png" class="effect-icon" width="28" />
+			<p>Выпускает разрывную стрелу на расстояние <span>6 м</span> перед собой, 
+			которая наносит <span>(826 + 250% от силы атаки в дальнем бою)</span> ед. урона, 
+			противникам в области действия умения и заставляет их <span>онеметь</span> на <span>3.5 сек.</span> 
+			Эффект немоты препятствует чтению заклинаний. Совершив выстрел, лучник отскакивает на 
+			<span>8 м</span> назад.</p>
+			<p><i>Этот выстрел нельзя заблокировать. От него невозможно уклонится. Недоступно в 
+			состоянии обездвиживания.</i></p>
+		</div>
+		<div class="effect">
+			<img src="icon_buff/buff67.png" class="effect-icon" width="28" />
+			<p>Пробивание брони увеличивается на <span>20%</span> за каждый уровень [кровотечения] на цели.</p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	
+	<skill>
+		<index>7111</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Ливень стрел</p>
+			<p class="name-type">Преследование [Огонь]</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>173</span></p>
+			<p>Дальность <span>10-30 м</span></p>
+			<p>Радиус действия <span>4 м</span></p>
+			<p>Сила атаки в дальнем бою <span>+240%</span></p>
+			<p>Время применения <span>3.0 сек.</span></p>
+			<p>Восстановление <span>22 сек.</span></p>
+		</div>
+		<div class="desc">
+			<p>Выпускает град стрел, который наносит <span>10</span> противникам
+			до <span>(343 + 240% от силы атаки в дальнем бою)</span> ед. урона 
+			противникам в области действия умения.</p>
+			<p>Дальность и радиус действия этого умения меньше, чем базового, но оно наносит больше урона.</p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>7116</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Ливень стрел</p>
+			<p class="name-type">Преследование [Смерть]</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>173</span></p>
+			<p>Дальность <span>0-25 м</span></p>
+			<p>Сила атаки в дальнем бою <span>+60%</span></p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>22 сек.</span></p>
+		</div>
+		<div class="desc">
+			<p>В течении <span>2 сек.</span> производит в конусе перед собой <span>10 залпов,</span> 
+			в каждом из которых по <span>6 стрел,</span> и наносит до<span>(79 + 60% от силы атаки в дальнем бою)</span> 
+			ед. урона <span>10</span> противникам в области действия умения.</p>
+			<p>Если цель находится в радиусе <span>8 м,</span> наносимый урон снижается на <span>20%,</span> 
+			при каждый залп отбрасывает ее на небольшое расстояние назад.</p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	
+	<skill>
+		<index>711</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Азарт мстителя</p>
+			<p class="name-type">Преследование [Огонь]</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>24</span></p>
+			<p>Дальность <span>0-25 м</span></p>
+			<p>Сила атаки в дальнем бою <span>+180%</span></p>
+			<p>Мгновенное применение</p>
+		</div>
+		<div class="desc">
+		    <p><span>У этого умения увеличено глобальное время восстановления.</span></p>
+			<p>Наносит цели урон в размере <span>(0 + 180% от силы в дальнем бою).</span></p>
+			<p><i>При удерживании клавиши умения оно применяется непрерывно.</i></p>
+		</div>
+		<div class="effect">
+			<img src="icon_buff/buff04.png" class="effect-icon" width="28" />
+			<p>Если цель [замедлена], урон повышается на <span>26%.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>714</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Азарт мстителя</p>
+			<p class="name-type">Преследование [Порядок]</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>5</span></p>
+			<p>Дальность <span>0-25 м</span></p>
+			<p>Сила атаки в дальнем бою <span>+30%</span></p>
+			<p>Мгновенное применение</p>
+		</div>
+		<div class="desc">
+			<p>Наносит цели урон в размере <span>(0 + 30% от силы в дальнем бою)</span> 
+			и накладываед эффект <span>[?]</span> действующий <span>3 сек.</span> 
+			При достижении <span>50</span> эффектов, цель будет опрокинута на <span>2 сек.</span></p>
+			<p><i>У этого умения снижено глобальное время восстановления.</i></p>
+			<p><i>При удерживании клавиши умения оно применяется непрерывно.</i></p>
+		</div>
+		<div class="effect">
+			<img src="icon_buff/buff04.png" class="effect-icon" width="28" />
+			<p>Если цель [замедлена], урон повышается на <span>26%.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+</skills>

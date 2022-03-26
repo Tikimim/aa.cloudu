@@ -1,0 +1,497 @@
+<classes>
+	<class>
+		<index>056</index>	<name>Дознаватель</name>
+	</class>
+	<class>
+		<index>026</index>	<name>Демонолог</name>
+	</class>
+	<class>
+		<index>046</index>	<name>Глашатай</name>
+	</class>
+	<class>
+		<index>069</index>	<name>Храмовник</name>
+	</class>
+	<class>
+		<index>036</index>	<name>Вершитель</name>
+	</class>
+	<class>
+		<index>017</index>	<name>Узурпатор</name>
+	</class>
+	<class>
+		<index>018</index>	<name>Наемник</name>
+	</class>
+	<class>
+		<index>016</index>	<name>Гладиатор</name>
+	</class>
+	<class>
+		<index>015</index>	<name>Стратег</name>
+	</class>
+	<class>
+		<index>012</index>	<name>Палач</name>
+	</class>
+	<class>
+		<index>014</index>	<name>Защитник</name>
+	</class>
+	<class>
+		<index>019</index>	<name>Паладин</name>
+	</class>
+	<class>
+		<index>013</index>	<name>Монах</name>
+	</class>
+	<class>
+		<index>078</index>	<name>Мститель</name>
+	</class>
+	<class>
+		<index>067</index>	<name>Завоеватель</name>
+	</class>
+	<class>
+		<index>057</index>	<name>Ассасин</name>
+	</class>
+	<class>
+		<index>027</index>	<name>Дуэлянт</name>
+	</class>
+	<class>
+		<index>047</index>	<name>Полководец</name>
+	</class>
+	<class>
+		<index>079</index>	<name>Догматик</name>
+	</class>
+	<class>
+		<index>037</index>	<name>Разрушитель</name>
+	</class>
+	<class>
+		<index>068</index>	<name>Разбойник</name>
+	</class>
+	<class>
+		<index>058</index>	<name>Убийца</name>
+	</class>
+	<class>
+		<index>028</index>	<name>Потрошитель</name>
+	</class>
+	<class>
+		<index>048</index>	<name>Судья</name>
+	</class>
+	<class>
+		<index>089</index>	<name>Инквизитор</name>
+	</class>
+	<class>
+		<index>038</index>	<name>Хиромант</name>
+	</class>
+	<class>
+		<index>025</index>	<name>Чернокнижник</name>
+	</class>
+	<class>
+		<index>045</index>	<name>Мнемоник</name>
+	</class>
+	<class>
+		<index>059</index>	<name>Законник</name>
+	</class>
+	<class>
+		<index>035</index>	<name>Пcионик</name>
+	</class>
+	<class>
+		<index>024</index>	<name>Скальд</name>
+	</class>
+	<class>
+		<index>029</index>	<name>Экзорцист</name>
+	</class>
+	<class>
+		<index>023</index>	<name>Оккультист</name>
+	</class>
+	<class>
+		<index>049</index>	<name>Капеллан</name>
+	</class>
+	<class>
+		<index>034</index>	<name>Магистр</name>
+	</class>
+	<class>
+		<index>039</index>	<name>Чудотворец</name>
+	</class>
+	<class>
+		<index>178</index>	<name>Охотник</name>
+	</class>
+	<class>
+		<index>167</index>	<name>Застрельщик</name>
+	</class>
+	<class>
+		<index>157</index>	<name>Юстициарий</name>
+	</class>
+	<class>
+		<index>127</index>	<name>Ловчий</name>
+	</class>
+	<class>
+		<index>147</index>	<name>Вождь</name>
+	</class>
+	<class>
+		<index>179</index>	<name>Пастырь</name>
+	</class>
+	<class>
+		<index>137</index>	<name>Каббалист</name>
+	</class>
+	<class>
+		<index>158</index>	<name>Лазутчик</name>
+	</class>
+	<class>
+		<index>168</index>	<name>Контрабандист</name>
+	</class>
+	<class>
+		<index>128</index>	<name>Мародер</name>
+	</class>
+	<class>
+		<index>148</index>	<name>Дозорный</name>
+	</class>
+	<class>
+		<index>189</index>	<name>Пилигрим</name>
+	</class>
+	<class>
+		<index>138</index>	<name>Хранитель</name>
+	</class>
+	<class>
+		<index>156</index>	<name>Страж</name>
+	</class>
+	<class>
+		<index>126</index>	<name>Тактик</name>
+	</class>
+	<class>
+		<index>146</index>	<name>Менестрель</name>
+	</class>
+	<class>
+		<index>169</index>	<name>Целитель</name>
+	</class>
+	<class>
+		<index>136</index>	<name>Госпитальер</name>
+	</class>
+	<class>
+		<index>125</index>	<name>Мистификатор</name>
+	</class>
+	<class>
+		<index>145</index>	<name>Бард</name>
+	</class>
+	<class>
+		<index>159</index>	<name>Проповедник</name>
+	</class>
+	<class>
+		<index>135</index>	<name>Телепат</name>
+	</class>
+	<class>
+		<index>124</index>	<name>Маэстро</name>
+	</class>
+	<class>
+		<index>129</index>	<name>Рыцарь</name>
+	</class>
+	<class>
+		<index>123</index>	<name>Каратель</name>
+	</class>
+	<class>
+		<index>149</index>	<name>Миротворец</name>
+	</class>
+	<class>
+		<index>134</index>	<name>Заступник</name>
+	</class>
+	<class>
+		<index>139</index>	<name>Мудрец</name>
+	</class>
+	<class>
+		<index>678</index>	<name>Следопыт</name>
+	</class>
+	<class>
+		<index>578</index>	<name>Разведчик</name>
+	</class>
+	<class>
+		<index>278</index>	<name>Вивисектор</name>
+	</class>
+	<class>
+		<index>478</index>	<name>Сказитель</name>
+	</class>
+	<class>
+		<index>789</index>	<name>Авантюрист</name>
+	</class>
+	<class>
+		<index>378</index>	<name>Фантом</name>
+	</class>
+	<class>
+		<index>567</index>	<name>Усмиритель</name>
+	</class>
+	<class>
+		<index>267</index>	<name>Загонщик</name>
+	</class>
+	<class>
+		<index>467</index>	<name>Странник</name>
+	</class>
+	<class>
+		<index>679</index>	<name>Отшельник</name>
+	</class>
+	<class>
+		<index>367</index>	<name>Анахорет</name>
+	</class>
+	<class>
+		<index>257</index>	<name>Зверолов</name>
+	</class>
+	<class>
+		<index>457</index>	<name>Трубадур</name>
+	</class>
+	<class>
+		<index>579</index>	<name>Знахарь</name>
+	</class>
+	<class>
+		<index>357</index>	<name>Месмер</name>
+	</class>
+	<class>
+		<index>247</index>	<name>Егерь</name>
+	</class>
+	<class>
+		<index>279</index>	<name>Эзотерик</name>
+	</class>
+	<class>
+		<index>237</index>	<name>Гаруспик</name>
+	</class>
+	<class>
+		<index>479</index>	<name>Миссионер</name>
+	</class>
+	<class>
+		<index>347</index>	<name>Друид</name>
+	</class>
+	<class>
+		<index>379</index>	<name>Геомант</name>
+	</class>
+	<class>
+		<index>568</index>	<name>Мошенник</name>
+	</class>
+	<class>
+		<index>268</index>	<name>Осквернитель</name>
+	</class>
+	<class>
+		<index>468</index>	<name>Плут</name>
+	</class>
+	<class>
+		<index>689</index>	<name>Стоик</name>
+	</class>
+	<class>
+		<index>368</index>	<name>Шулер</name>
+	</class>
+	<class>
+		<index>258</index>	<name>Ликвидатор</name>
+	</class>
+	<class>
+		<index>458</index>	<name>Импровизатор</name>
+	</class>
+	<class>
+		<index>589</index>	<name>Фаталист</name>
+	</class>
+	<class>
+		<index>358</index>	<name>Фанатик</name>
+	</class>
+	<class>
+		<index>248</index>	<name>Виртуоз</name>
+	</class>
+	<class>
+		<index>289</index>	<name>Теург</name>
+	</class>
+	<class>
+		<index>238</index>	<name>Колдун</name>
+	</class>
+	<class>
+		<index>489</index>	<name>Паломник</name>
+	</class>
+	<class>
+		<index>348</index>	<name>Чародей</name>
+	</class>
+	<class>
+		<index>389</index>	<name>Оракул</name>
+	</class>
+	<class>
+		<index>256</index>	<name>Иллюзионист</name>
+	</class>
+	<class>
+		<index>456</index>	<name>Вестник</name>
+	</class>
+	<class>
+		<index>569</index>	<name>Аскет</name>
+	</class>
+	<class>
+		<index>356</index>	<name>Теолог</name>
+	</class>
+	<class>
+		<index>246</index>	<name>Философ</name>
+	</class>
+	<class>
+		<index>269</index>	<name>Еретик</name>
+	</class>
+	<class>
+		<index>236</index>	<name>Элементалист</name>
+	</class>
+	<class>
+		<index>469</index>	<name>Эскулап</name>
+	</class>
+	<class>
+		<index>346</index>	<name>Летописец</name>
+	</class>
+	<class>
+		<index>369</index>	<name>Жрец</name>
+	</class>
+	<class>
+		<index>245</index>	<name>Эмпат</name>
+	</class>
+	<class>
+		<index>259</index>	<name>Отступник</name>
+	</class>
+	<class>
+		<index>235</index>	<name>Астролог</name>
+	</class>
+	<class>
+		<index>459</index>	<name>Клирик</name>
+	</class>
+	<class>
+		<index>345</index>	<name>Сновидец</name>
+	</class>
+	<class>
+		<index>359</index>	<name>Исповедник</name>
+	</class>
+	<class>
+		<index>249</index>	<name>Медиум</name>
+	</class>
+	<class>
+		<index>234</index>	<name>Шаман</name>
+	</class>
+	<class>
+		<index>239</index>	<name>Пророк</name>
+	</class>
+	<class>
+		<index>349</index>	<name>Авгур</name>
+	</class>
+	<class>
+		<index>01g</index>	<name>Берсерк</name>
+	</class>
+	<class>
+		<index>02g</index>	<name>Клеймитель</name>
+	</class>
+	<class>
+		<index>03g</index>	<name>Эокад</name>
+	</class>
+	<class>
+		<index>04g</index>	<name>Архонт</name>
+	</class>
+	<class>
+		<index>05g</index>	<name>Экзекутор</name>
+	</class>
+	<class>
+		<index>06g</index>	<name>Провокатор</name>
+	</class>
+	<class>
+		<index>07g</index>	<name>Ликтор</name>
+	</class>
+	<class>
+		<index>08g</index>	<name>Истязатель</name>
+	</class>
+	<class>
+		<index>09g</index>	<name>Подстрекатель</name>
+	</class>
+	<class>
+		<index>12g</index>	<name>Трикстер</name>
+	</class>
+	<class>
+		<index>13g</index>	<name>Протектор</name>
+	</class>
+	<class>
+		<index>14g</index>	<name>Прецептор</name>
+	</class>
+	<class>
+		<index>15g</index>	<name>Воитель</name>
+	</class>
+	<class>
+		<index>16g</index>	<name>Угнетатель</name>
+	</class>
+	<class>
+		<index>17g</index>	<name>Браконьер</name>
+	</class>
+	<class>
+		<index>18g</index>	<name>Искатель</name>
+	</class>
+	<class>
+		<index>19g</index>	<name>Кондотьер</name>
+	</class>
+	<class>
+		<index>23g</index>	<name>Визионер</name>
+	</class>
+	<class>
+		<index>24g</index>	<name>Паяц</name>
+	</class>
+	<class>
+		<index>25g</index>	<name>Духовидец</name>
+	</class>
+	<class>
+		<index>26g</index>	<name>Архат</name>
+	</class>
+	<class>
+		<index>27g</index>	<name>Мара</name>
+	</class>
+	<class>
+		<index>28g</index>	<name>Некромант</name>
+	</class>
+	<class>
+		<index>29g</index>	<name>Волхв</name>
+	</class>
+	<class>
+		<index>34g</index>	<name>Экзарх</name>
+	</class>
+	<class>
+		<index>35g</index>	<name>Адепт</name>
+	</class>
+	<class>
+		<index>36g</index>	<name>Дервиш</name>
+	</class>
+	<class>
+		<index>37g</index>	<name>Созидатель</name>
+	</class>
+	<class>
+		<index>38g</index>	<name>Ведьмак</name>
+	</class>
+	<class>
+		<index>39g</index>	<name>Прорицатель</name>
+	</class>
+	<class>
+		<index>45g</index>	<name>Кардинал</name>
+	</class>
+	<class>
+		<index>46g</index>	<name>Повстанец</name>
+	</class>
+	<class>
+		<index>47g</index>	<name>Пацифист</name>
+	</class>
+	<class>
+		<index>48g</index>	<name>Фокусник</name>
+	</class>
+	<class>
+		<index>49g</index>	<name>Скриптор</name>
+	</class>
+	<class>
+		<index>56g</index>	<name>Прокуратор</name>
+	</class>
+	<class>
+		<index>57g</index>	<name>Секутор</name>
+	</class>
+	<class>
+		<index>58g</index>	<name>Чаромант</name>
+	</class>
+	<class>
+		<index>59g</index>	<name>Врачеватель</name>
+	</class>
+	<class>
+		<index>67g</index>	<name>Ординарец</name>
+	</class>
+	<class>
+		<index>68g</index>	<name>Мизантроп</name>
+	</class>
+	<class>
+		<index>69g</index>	<name>Понтифик</name>
+	</class>
+	<class>
+		<index>78g</index>	<name>Налетчик</name>
+	</class>
+	<class>
+		<index>79g</index>	<name>Эпигон</name>
+	</class>
+	<class>
+		<index>89g</index>	<name>Хронист</name>
+	</class>
+</classes>

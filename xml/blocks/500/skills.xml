@@ -1,0 +1,141 @@
+<div id="sblock-1" class="null">
+	<div class="selection" style="display:block">
+		<div data-status="0" data-type="0">Нападение</div>
+		<div data-status="0" data-type="1">Оборона</div>
+		<div data-status="0" data-type="2">Мистицизм</div>
+		<div data-status="0" data-type="3">Волшебство</div>
+		<div data-status="0" data-type="4">Воодушевление</div>
+		<div data-status="0" data-type="5">Гипноз</div>
+		<div data-status="0" data-type="6">Сопротивление</div>
+		<div data-status="0" data-type="7">Преследование</div>
+		<div data-status="0" data-type="8">Скрытность</div>
+		<div data-status="0" data-type="9">Исцеление</div>
+		<div data-status="0" data-type="g">Гнев</div>
+	</div>
+	<div class="skills" style="display:none">
+		<div class="data">
+			<div class="name"></div>
+			<div class="return">x</div>
+		</div>
+		<div class="active">
+			<div class="title">Активные</div>
+			<div data-status="0" class="cls skill sid-1"  data-q="0"><div></div></div>
+			<div data-status="0" class="cls skill sid-2"  data-q="0"><div></div></div>
+			<div data-status="0" class="cls skill sid-3"  data-q="0"><div></div></div>
+			<div data-status="0" class="cls tog skill sid-4"  data-q="0" data-point="3"><div>3</div></div>
+			<div data-status="0" class="cls skill sid-5"  data-q="0"><div></div></div>
+			<div data-status="0" class="cls skill sid-6"  data-q="0"><div></div></div>
+			<div data-status="0" class="cls skill sid-7"  data-q="0"><div></div></div>
+			<div data-status="0" class="cls tog skill sid-8"  data-q="0" data-point="4"><div>4</div></div>
+			<div data-status="0" class="cls skill sid-9"  data-q="0"><div></div></div>
+			<div data-status="0" class="cls skill sid-10" data-q="0"><div></div></div>
+			<div data-status="0" class="cls skill sid-11" data-q="0"><div></div></div>
+			<div data-status="0" class="cls tog skill sid-12" data-q="0" data-point="5"><div>5</div></div>
+		</div>
+		<div class="passive">
+			<div class="title">Пассивные</div>
+			<div data-status="0" class="pas skill sid-13" data-point="2"><div>2</div></div>
+			<div data-status="0" class="pas skill sid-14" data-point="3"><div>3</div></div>
+			<div data-status="0" class="pas skill sid-15" data-point="4"><div>4</div></div>
+			<div data-status="0" class="pas skill sid-16" data-point="5"><div>5</div></div>
+			<div data-status="0" class="pas skill sid-17" data-point="6"><div>6</div></div>
+			<div data-status="0" class="pas skill sid-18" data-point="7"><div>7</div></div>
+			<div class="skill-null"></div>
+			<div data-id="1" class="reset">0</div>
+		</div>
+	</div>
+</div>
+<div id="sblock-2" class="null">
+	<div class="selection" style="display:block">
+		<div data-status="0" data-type="0">Нападение</div>
+		<div data-status="0" data-type="1">Оборона</div>
+		<div data-status="0" data-type="2">Мистицизм</div>
+		<div data-status="0" data-type="3">Волшебство</div>
+		<div data-status="0" data-type="4">Воодушевление</div>
+		<div data-status="0" data-type="5">Гипноз</div>
+		<div data-status="0" data-type="6">Сопротивление</div>
+		<div data-status="0" data-type="7">Преследование</div>
+		<div data-status="0" data-type="8">Скрытность</div>
+		<div data-status="0" data-type="9">Исцеление</div>
+		<div data-status="0" data-type="g">Гнев</div>
+	</div>
+	<div class="skills" style="display:none">
+		<div class="data">
+			<div class="name"></div>
+			<div class="return">x</div>
+		</div>
+		<div class="active">
+			<div class="title">Активные</div>
+			<div data-status="0" class="cls skill sid-1"  data-q="0"><div></div></div>
+			<div data-status="0" class="cls skill sid-2"  data-q="0"><div></div></div>
+			<div data-status="0" class="cls skill sid-3"  data-q="0"><div></div></div>
+			<div data-status="0" class="cls tog skill sid-4"  data-q="0" data-point="3"><div>3</div></div>
+			<div data-status="0" class="cls skill sid-5"  data-q="0"><div></div></div>
+			<div data-status="0" class="cls skill sid-6"  data-q="0"><div></div></div>
+			<div data-status="0" class="cls skill sid-7"  data-q="0"><div></div></div>
+			<div data-status="0" class="cls tog skill sid-8"  data-q="0" data-point="4"><div>4</div></div>
+			<div data-status="0" class="cls skill sid-9"  data-q="0"><div></div></div>
+			<div data-status="0" class="cls skill sid-10" data-q="0"><div></div></div>
+			<div data-status="0" class="cls skill sid-11" data-q="0"><div></div></div>
+			<div data-status="0" class="cls tog skill sid-12" data-q="0" data-point="5"><div>5</div></div>
+		</div>
+		<div class="passive">
+			<div class="title">Пассивные</div>
+			<div data-status="0" class="pas skill sid-13" data-point="2"><div>2</div></div>
+			<div data-status="0" class="pas skill sid-14" data-point="3"><div>3</div></div>
+			<div data-status="0" class="pas skill sid-15" data-point="4"><div>4</div></div>
+			<div data-status="0" class="pas skill sid-16" data-point="5"><div>5</div></div>
+			<div data-status="0" class="pas skill sid-17" data-point="6"><div>6</div></div>
+			<div data-status="0" class="pas skill sid-18" data-point="7"><div>7</div></div>
+			<div class="skill-null"></div>
+			<div data-id="2" class="reset">0</div>
+		</div>
+	</div>
+</div>
+<div id="sblock-3" class="null">
+	<div class="selection" style="display:block">
+		<div data-status="0" data-type="0">Нападение</div>
+		<div data-status="0" data-type="1">Оборона</div>
+		<div data-status="0" data-type="2">Мистицизм</div>
+		<div data-status="0" data-type="3">Волшебство</div>
+		<div data-status="0" data-type="4">Воодушевление</div>
+		<div data-status="0" data-type="5">Гипноз</div>
+		<div data-status="0" data-type="6">Сопротивление</div>
+		<div data-status="0" data-type="7">Преследование</div>
+		<div data-status="0" data-type="8">Скрытность</div>
+		<div data-status="0" data-type="9">Исцеление</div>
+		<div data-status="0" data-type="g">Гнев</div>
+	</div>
+	<div class="skills" style="display:none">
+		<div class="data">
+			<div class="name"></div>
+			<div class="return">x</div>
+		</div>
+		<div class="active">
+			<div class="title">Активные</div>
+			<div data-status="0" class="cls skill sid-1"  data-q="0"><div></div></div>
+			<div data-status="0" class="cls skill sid-2"  data-q="0"><div></div></div>
+			<div data-status="0" class="cls skill sid-3"  data-q="0"><div></div></div>
+			<div data-status="0" class="cls tog skill sid-4"  data-q="0" data-point="3"><div>3</div></div>
+			<div data-status="0" class="cls skill sid-5"  data-q="0"><div></div></div>
+			<div data-status="0" class="cls skill sid-6"  data-q="0"><div></div></div>
+			<div data-status="0" class="cls skill sid-7"  data-q="0"><div></div></div>
+			<div data-status="0" class="cls tog skill sid-8"  data-q="0" data-point="4"><div>4</div></div>
+			<div data-status="0" class="cls skill sid-9"  data-q="0"><div></div></div>
+			<div data-status="0" class="cls skill sid-10" data-q="0"><div></div></div>
+			<div data-status="0" class="cls skill sid-11" data-q="0"><div></div></div>
+			<div data-status="0" class="cls tog skill sid-12" data-q="0" data-point="5"><div>5</div></div>
+		</div>
+		<div class="passive">
+			<div class="title">Пассивные</div>
+			<div data-status="0" class="pas skill sid-13" data-point="2"><div>2</div></div>
+			<div data-status="0" class="pas skill sid-14" data-point="3"><div>3</div></div>
+			<div data-status="0" class="pas skill sid-15" data-point="4"><div>4</div></div>
+			<div data-status="0" class="pas skill sid-16" data-point="5"><div>5</div></div>
+			<div data-status="0" class="pas skill sid-17" data-point="6"><div>6</div></div>
+			<div data-status="0" class="pas skill sid-18" data-point="7"><div>7</div></div>
+			<div class="skill-null"></div>
+			<div data-id="3" class="reset">0</div>
+		</div>
+	</div>
+</div>

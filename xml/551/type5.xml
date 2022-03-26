@@ -1,0 +1,742 @@
+<skills>
+	<skill>
+		<index>1</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Хватка земли</p>
+			<p class="name-type">Гипноз</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>167</span></p>
+			<p>Дальность <span>0-20 м</span></p>
+			<p>Сила заклинания <span>+220%</span></p>
+			<p>Время применения <span>1.0 сек.</span></p>
+			<p>Восстановление <span>18 сек.</span></p>
+		</div>
+		<div class="desc">
+			<img src="/icon_buff/buff55.png" class="effect-icon" width="28" />
+			<p><span>Обездвиживает</span> цель на <span>17.2 сек.</span> Эффект исчезает досрочно, если цель получает урон.
+			По окончании действия эффекта противнику наносится <span>(835 + 220% от силы заклинаний)</span> ед. урона.</p>
+			<p>При сражении с другими игроками длительность действия обездвиживания сокращается вдвое.</p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff21.png" class="effect-icon" width="28" />
+			<p>Если цель охвачена [безумием], отнимает ману в размере <span>30%</span>
+			от полученного урона.</p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff119.png" class="effect-icon" width="28" />
+			<p>Если цель находится под воздействием [ужаса], блокирует использование
+			музыкального инструмента на <span>6 сек.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>2</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Сокрушение разума</p>
+			<p class="name-type">Гипноз</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>55</span></p>
+			<p>Дальность <span>0-20 м</span></p>
+			<p>Сила заклинаний <span>+90%</span></p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>24 сек.</span></p>
+		</div>
+		<div class="desc">
+			<img src="/icon_buff/buff21.png" class="effect-icon" width="28" />
+			<p>Наносит цели <span>(432 + 90% от силы заклинаний)</span> ед. урона
+			и накладывает эффект <span>безумия</span>, действующий <span>10 сек.</span></p>
+			<p>Безумие сжигает ману (500 + 90% от силы заклинаний), снижает эффективность исцеления на
+			<span>60%</span> и увеличивает длительность действия эффектов
+			оглушения и сбивания с ног на <span>30%.</span></p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff119.png" class="effect-icon" width="28" />
+			<p>Если цель находится под воздействием [ужаса], она дополнительно
+			теряет ману в размере <span>40%</span> от полученного урона.</p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>3</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Сфера</p>
+			<p class="name-type">Гипноз</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>108</span></p>
+			<p>Дальность <span>0-20 м</span></p>
+			<p>Время применения <span>1.5 сек.</span></p>
+			<p>Восстановление <span>39 сек.</span></p>
+		</div>
+		<div class="desc">
+			<img src="/icon_buff/buff80.png" class="effect-icon" width="28" />
+			<img src="/icon_buff/buff95.png" class="effect-icon" width="28" />
+			<p>Поднимает цель в воздух на <span>18.8 сек.,</span> лишая ее
+			возможности двигаться и атаковать. Получаемый целью урон от заклинаний
+			снижается на <span>50%.</span></p>
+			<p>При сражении с другими игроками длительность действия эффекта
+			сокращается <span>вдвое.</span> Если цель получит урон, эффект рассеется досрочно.</p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff59.png" class="effect-icon" width="28" />
+			<p>Если цель находится под действием [электрошока], дополнительно наносит урон от заклинаний.</p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff61.png" class="effect-icon" width="28" />
+			<p>Если цель находится под действием [ожога], сфера поднимет ее еще выше.</p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>4</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Шепот ужаса</p>
+			<p class="name-type">Гипноз</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>71</span></p>
+			<p>Дальность <span>0-20 м</span></p>
+			<p>Время применения <span>2.0 сек.</span></p>
+			<p>Восстановление <span>45 сек.</span></p>
+		</div>
+		<div class="desc">
+			<img src="/icon_buff/buff119.png" class="effect-icon" width="28" />
+			<p>Повергает противника в <span>ужас</span> на <span>5.1 сек.</span>
+			Охваченная ужасом цель не может контролировать свое перемещение и
+			атаковать. Если цель получит урон, эффект может рассеяться.</p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff61.png" class="effect-icon" width="28" />
+			<p>Если цель находится под действием [ожога], эффект ужаса продлевается на 1.5 сек.</p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>5</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Зеркально отражение</p>
+			<p class="name-type">Гипноз</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>29</span></p>
+			<p>Выбор цели не требуется</p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>30 сек.</span></p>
+		</div>
+		<div class="desc">
+			<p>Позволяет мгновенно переместиться на <span>15 м</span> вправо или влево
+			в течение <span>5 сек.</span></p>
+			<p>Это умение не позволяет проходить сквозь стены и другие преграды.
+			Недоступно в состоянии обездвиживания.</p>
+			<p>Если вы являетесь целью какого-либо противника, после применения
+			умения он потеряет вас из виду.</p>
+			<p><i>Не активирует глобальное время восстановления способностей.</i></p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff87.png" class="effect-icon" width="28" />
+			<img src="/icon_buff/buff87.png" class="effect-icon" width="28" />
+			<p>Если заклинатель под воздействием [дара жизни], накладывает данный эффект на всех соратников на вашем пути.</p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>6</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Очищение</p>
+			<p class="name-type">Гипноз</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>59</span></p>
+			<p>Радиус действия <span>0-20 м</span></p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>30 сек.</span></p>
+		</div>
+		<div class="desc">
+			<p>При применении к соратнику рассеивает один отрицательный эффект
+			и накладывает эффект <span>«Укрепления»</span> на <span>10 сек.</span>
+			Эффект защищает от негативных эффектов умений непрерывного исполнения
+			(песни ветки воодушевления).</p>
+			<p>При применении к противнику рассеивает один положительный эффект.</p>
+			<p><i>У этого умения снижено глобальное время восстановления.</i></p>
+			<p><i>Это умение всегда попадает в цель.</i></p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff37.png" class="effect-icon" width="28" />
+			<img src="/icon_buff/buff16.png" class="effect-icon" width="28" />
+			<p>Если цель [обезоружена], она [онемеет] на <span>4 сек.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>7</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Внушение усталости</p>
+			<p class="name-type">Гипноз</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>55</span></p>
+			<p>Дальность <span>0-10 м</span></p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>45 сек.</span></p>
+		</div>
+		<div class="desc">
+			<img src="/icon_buff/buff19.png" class="effect-icon" width="28" />
+			<p>Внушает противнику чувство <span>усталости,</span> постепенно
+			снижающее его сноровку и скорость передвижения в течение <span>4 сек.</span>
+			После того как эффект <span>усталости</span> рассеивается, цель
+			<span>засыпает</span> на <span>12 сек.</span> Погруженный в сон
+			противник не может двигаться и атаковать. Эффект исчезает досрочно,
+			если цель получает урон.</p>
+			<p>При сражении с другими игроками длительность действия эффекта
+			сокращается <span>вдвое.</span></p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff64.png" class="effect-icon" width="28" />
+			<p>Если цель находится под действием [заморозки], эффект [сна] продлевается на <span>10 сек.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>8</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Проклятие немоты</p>
+			<p class="name-type">Гипноз</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>52</span></p>
+			<p>Дальность <span>0-20 м</span></p>
+			<p>Радиус действия <span>10 м</span></p>
+			<p>Время применения <span>1.0 сек.</span></p>
+			<p>Восстановление <span>36 сек.</span></p>
+		</div>
+		<div class="desc">
+			<img src="/icon_buff/buff16.png" class="effect-icon" width="28"/>
+			<p>Прерывает чтение заклинаний и заставляет <span>онеметь</span> всех противников
+			в области действия умения на <span>3 сек.</span> Эффект немоты препятствует
+			чтению заклинаний.</p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>9</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Дыхание дауты</p>
+			<p class="name-type">Гипноз</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>454</span></p>
+			<p>Выбор цели не требуется</p>
+			<p>Радиус действия <span>10 м</span></p>
+			<p>Сила заклинаний <span>+150%</span></p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>21 сек.</span></p>
+		</div>
+		<div class="desc">
+			<p>Вызывает огромную волну, которая наносит <span>8</span> противникам
+			в области действия умения <span>(1658 + 150% от силы заклинаний)</span>
+			ед. урона и отбрасывает их на <span>10 м</span> назад.</p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff508.png" class="effect-icon" width="28" />
+			<p>Если заклинатель под воздействием [ростков жизни], этот эффект будет
+			наложен на всех соратников в области действия умения.</p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>10</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Стресс</p>
+			<p class="name-type">Гипноз</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>178</span></p>
+			<p>Дальность <span>0-8 м</span></p>
+			<p>Сила заклинаний <span>+110%</span></p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>27 сек.</span></p>
+		</div>
+		<div class="desc">
+			<img src="/icon_buff/buff19.png" class="effect-icon" width="28" />
+			<p>Наносит противнику <span>(1303 + 110% от силы заклинаний)</span> ед. урона
+			и на <span>3 сек.</span> вводит его в состояние <span>сна.</span></p>
+			<p>Если в момент выхода из сна цель находится под воздействием
+			любого положительного эффекта, он рассеется, а цель получит дополнительный урон.</p>
+			<p>При сражении с другими игроками действие умения сокращается <span>вдвое</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>11</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Ужасающий крик</p>
+			<p class="name-type">Гипноз</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>159</span></p>
+			<p>Выбор цели не требуется</p>
+			<p>Радиус действия <span>5 м</span></p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>45 сек.</span></p>
+		</div>
+		<div class="desc">
+			<img src="/icon_buff/buff119.png" class="effect-icon" width="28" />
+			<p>Повергает противников вокруг себя в <span>ужас</span> на <span>3.8 сек.</span>
+			Охваченная ужасом цель не может контролировать свое перемещение и атаковать.
+			Если цель получит урон, эффект может рассеяться.</p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff61.png" class="effect-icon" width="28" />
+			<p>Если цель находится под действием [ожога], эффект ужаса продлевается на <span>2 сек.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>12</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Слуга бездны</p>
+			<p class="name-type">Гипноз</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>1420</span></p>
+			<p>Дальность <span>0-30 м</span></p>
+			<p>Радиус <span>5 м</span></p>
+			<p>Время применения <span>5.0 сек.</span></p>
+			<p>Восстановление <span>45 сек.</span></p>
+		</div>
+		<div class="desc">
+			<p>Призывает демона, сбивающего с ног противников в области действия умения
+			на <span>1.5 сек.</span> и атакующего их в течение <span>5 мин.</span></p>
+			<p>Демон абсолютно неуправляем - вы не сможете указать ему цель.
+			Кроме того, он невосприимчив к исцелению.</p>
+			<p><i>Это умение отменяет действие умений «Ужасающий крик» (Смерть) и
+			«Дух мщения» (Смерть).</i></p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff21.png" class="effect-icon" width="28" />
+			<img src="/icon_buff/buff19.png" class="effect-icon" width="28" />
+			<p>Если цель находится под воздействием [безумия], она [уснет] на <span>12 сек.,</span>
+			на протяжении этого времени слуга бездны не будет атаковать.</p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff23.png" class="effect-icon" width="28" />
+			<img src="/icon_buff/buff19.png" class="effect-icon" width="28" />
+			<p>Если цель находится под воздействием [внушения усталости], она [уснет] на <span>12 сек.,</span>
+			на протяжении этого времени слуга бездны не будет атаковать.</p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>13</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Сжатие времени</p>
+			<p class="name-type">Гипноз</p>
+		</div>
+		<div class="info">
+			<p>Пассивное умение</p>
+		</div>
+		<div class="desc">
+			<p>Сокращает время применения умений на <span>4%</span> и
+			повышает показатель сноровки на <span>20 ед.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>14</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Постижение магии</p>
+			<p class="name-type">Гипноз</p>
+		</div>
+		<div class="info">
+			<p>Пассивное умение</p>
+		</div>
+		<div class="desc">
+			<p>Умения «Хватка земли», «Сфера», «Шепот ужаса», «Внушение усталости»
+			и «Ужасающий крик» всегда попадают в цель.</p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>15</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Скрытый потенциал</p>
+			<p class="name-type">Гипноз</p>
+		</div>
+		<div class="info">
+			<p>Пассивное умение</p>
+		</div>
+		<div class="desc">
+			<p>Время применения умений «Хватка земли», «Сфера», «Шепот ужаса»,
+			«Проклятие немоты» и «Слуга бездны» сокращается на <span>0.5 сек.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>16</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Кража маны</p>
+			<p class="name-type">Гипноз</p>
+		</div>
+		<div class="info">
+			<p>Пассивное умение</p>
+		</div>
+		<div class="desc">
+			<p>За каждого протиника, попавшего под действие эффекта <span>«Ужас»</span>,
+			на заклинателя на <span>40 сек.</span> накладывается эффект <span>«Похититель снов»</span>.</p>
+			<p>Данный эффект снижает время восстановления умений <span>«Сокрушение разума»</span> и <span>«Стресс»</span> на
+			<span>10%.</span> Дополнительно при каждом успешном применении этих умений заклинатель
+			забирает у противника ману в размере <span>90%</span> от нанесенного урона, но теряет один уровень эффекта</p>
+			<p>Эффект суммируется до <span>5 раз.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>17</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Мощь гипноза</p>
+			<p class="name-type">Гипноз</p>
+		</div>
+		<div class="info">
+			<p>Пассивное умение</p>
+		</div>
+		<div class="desc">
+			<p>Увеличивает длительность действия «Хватки земли», «Сферы»,
+			«Шепота ужаса», «Внушения усталости» и «Ужасающего крика» на <span>20%.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>18</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Мастер гипноза</p>
+			<p class="name-type">Гипноз</p>
+		</div>
+		<div class="info">
+			<p>Активируется на 55 уровне гнева</p>
+			<p>Пассивное умение</p>
+		</div>
+		<div class="desc">
+			<p>Сокращает время восстановления всех умений специализации <span>«Гипноз»</span>
+			на <span>30%.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+
+
+	<skill>
+		<index>513</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Хватка земли</p>
+			<p class="name-type">Гипноз [Земля]</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>335</span></p>
+			<p>Выбор цели не требуется</p>
+			<p>Радиус действия <span>8 м</span></p>
+			<p>Сила заклинания <span>+100%</span></p>
+			<p>Время применения <span>1.0 сек.</span></p>
+			<p>Восстановление <span>18 сек.</span></p>
+		</div>
+		<div class="desc">
+			<img src="/icon_buff/buff55.png" class="effect-icon" width="28" />
+			<p><span>Обездвиживает</span> врагов в радиусе <span>8 м</span> на <span>12 сек.</span>
+			Эффект исчезает досрочно, если цель получает урон. По окончании действия
+			эффекта противникам наносится <span>(1225 + 100% от силы заклинаний)</span>
+			ед. урона.</p>
+			<p>При сражении с другими игроками длительность действия обездвиживания сокращается вдвое.</p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff21.png" class="effect-icon" width="28" />
+			<p>Если цель охвачена [безумием], она теряет ману в размере <span>30%</span> от полученного урона.</p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff119.png" class="effect-icon" width="28" />
+			<p>Если цель находится под воздействием [ужаса], блокирует использование
+			музыкального инструмента на <span>6 сек.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>518</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Хватка земли</p>
+			<p class="name-type">Гипноз [Хаос]</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>167</span></p>
+			<p>Дальность <span>0-12 м</span></p>
+			<p>Сила заклинания <span>+220%</span></p>
+			<p>Время применения <span>0.5 сек.</span></p>
+			<p>Восстановление <span>18 сек.</span></p>
+		</div>
+		<div class="desc">
+			<img src="/icon_buff/buff55.png" class="effect-icon" width="28" />
+			<p><span>Обездвиживает</span> цель на <span>12 сек.</span> Эффект исчезает досрочно,
+			если цель получает урон. По окончании действия эффекта противнику
+			наносится <span>(835 + 220% от силы заклинаний)</span> ед. урона.</p>
+			<p>При сражении с другими игроками длительность действия обездвиживания сокращается вдвое.</p>
+			<p>Время применения данного умения меньше, чем базового, при этом дальность его действия сокращена.</p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff21.png" class="effect-icon" width="28" />
+			<p>Если цель охвачена [безумием], она теряет ману в размере <span>30%</span> от полученного урона.</p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff119.png" class="effect-icon" width="28" />
+			<p>Если цель находится под воздействием [ужаса], блокирует использование
+			музыкального инструмента на <span>6 сек.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+
+	<skill>
+		<index>536</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Сфера</p>
+			<p class="name-type">Гипноз [Смерть]</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>216</span></p>
+			<p>Дальность <span>0-20 м</span></p>
+			<p>Радиус действия <span>4 м</span></p>
+			<p>Время применения <span>1.5 сек.</span></p>
+			<p>Восстановление <span>39 сек.</span></p>
+		</div>
+		<div class="desc">
+			<img src="/icon_buff/buff80.png" class="effect-icon" width="28" />
+			<img src="/icon_buff/buff95.png" class="effect-icon" width="28" />
+			<p>Создает на земле область призрачной энергии, которая действует
+			<span>15 сек.</span> и поднимает противников в воздух на <span>8.4 сек.</span>,
+			лишая возможности двигаться и атаковать. Противники, попавшие в призрачные сферы,
+			получают на <span>50%</span> меньше урона от заклинаний.</p>
+			<p>При сражении с другими игроками длительность действия эффекта
+			сокращается вдвое. Если противник получит урон, эффект рассеется досрочно.</p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>537</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Сфера</p>
+			<p class="name-type">Гипноз [Воздух]</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>108</span></p>
+			<p>Дальность <span>0-8 м</span></p>
+			<p>Время применения <span>2 сек.</span></p>
+			<p>Восстановление <span>21 сек.</span></p>
+		</div>
+		<div class="desc">
+			<img src="/icon_buff/buff80.png" class="effect-icon" width="28" />
+			<img src="/icon_buff/buff95.png" class="effect-icon" width="28" />
+			<p><i>Время восстановления этого умения меньше, чем базового, при этом дальность его действия сокращена,
+			а время применения увеличено.</i></p>
+			<p>Мощный вихревой поток поднимает цель в воздух на <span>18.8 сек.</span>,
+			лишая ее возможности двигаться и атаковать. Получаемый целью урон от
+			заклинаний снижается на <span>50%.</span></p>
+			<p>При сражении с другими игроками длительность действия эффекта
+			сокращается вдвое. Если цель получит урон, эффект рассеется досрочно.</p>
+
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff59.png" class="effect-icon" width="28" />
+			<p>Если цель находится под действием [электрошока], дополнительно
+			наносит урон от заклинаний.</p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff61.png" class="effect-icon" width="28" />
+			<p>Если цель находится под действием [ожога], сфера поднимется еще выше.</p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+
+	<skill>
+		<index>5114</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Ужасающий крик</p>
+			<p class="name-type">Гипноз [Порядок]</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>159</span></p>
+			<p>Выбор цели не требуется</p>
+			<p>Радиус действия <span>5 м</span></p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>45 сек.</span></p>
+		</div>
+		<div class="desc">
+			<img src="/icon_buff/buff119.png" class="effect-icon" width="28" />
+			<img src="/icon_buff/buff04.png" class="effect-icon" width="28" />
+			<p>Повергает <span>8</span> противников вокруг себя в <span>ужас</span> и снижет их
+			скорость передвижения на <span>40%</span> в течении <span>2.8 сек.</span>
+			Охваченная ужасом цель не может контролировать свое перемещение и атаковать.
+			Если цель получит урон, эффект может рассеяться.</p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff61.png" class="effect-icon" width="28" />
+			<p>Если цель находится под действием [ожога], эффект ужаса продлевается на <span>2 сек.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>5116</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Ужасающий крик</p>
+			<p class="name-type">Гипноз [Смерть]</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>159</span></p>
+			<p>Дальность <span>0-20 м</span></p>
+			<p>Радиус действия <span>5 м</span></p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>45 сек.</span></p>
+		</div>
+		<div class="desc">
+			<img src="/icon_buff/buff119.png" class="effect-icon" width="28" />
+			<p>На <span>7 сек.</span> призываете в выбранную область потустороннюю
+			сущность, которая ежесекундно повергает противников в области
+			действия умения в <span>ужас</span> на <span>3.8 сек.</span> Охваченная ужасом цель
+			не может контролировать свое перемещение и атаковать. Если цель получит
+			урон, эффект может рассеяться.</p>
+			<p><i>Это умение невозможно использовать одновременно с умениями «Слуга бездны»
+			и «Дух мщения» (Смерть).</i></p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff61.png" class="effect-icon" width="28" />
+			<p>Если цель находится под действием [ожога], эффект ужаса продлевается на <span>2 сек.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+
+	<skill>
+		<index>551</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Зеркально отражение</p>
+			<p class="name-type">Гипноз [Огонь]</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>29</span></p>
+			<p>Выбор цели не требуется</p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>40 сек.</span></p>
+		</div>
+		<div class="desc">
+			<p>Позволяет мгновенно несколько раз переместиться на <span>8 м</span>
+			вправо или влево в течение <span>5 сек.</span></p>
+			<p>Это умение не позволяет проходить сквозь стены и другие преграды.
+			Недоступно в состоянии обездвиживания.</p>
+			<p>Если вы являетесь целью какого-либо противника, после применения
+			умения он потеряет вас из виду.</p>
+			<p><i>Не активирует глобальное время восстановления способностей.</i></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>554</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Зеркально отражение</p>
+			<p class="name-type">Гипноз [Порядок]</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>29</span></p>
+			<p>Выбор цели не требуется</p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>30 сек.</span></p>
+		</div>
+		<div class="desc">
+			<p><i>Комбо эффект данного умения отличается от базового</i></p>
+			<p>Позволяет мгновенно переместиться на <span>15 м</span> вправо или влево
+			в течение <span>5 сек.</span></p>
+			<p>Это умение не позволяет проходить сквозь стены и другие преграды.
+			Недоступно в состоянии обездвиживания.</p>
+			<p>Если вы являетесь целью какого-либо противника, после применения
+			умения он потеряет вас из виду.</p>
+			<p><i>Не активирует глобальное время восстановления способностей.</i></p>
+		</div>
+		<div class="effect">
+			<img src="/icon_buff/buff87.png" class="effect-icon" width="28" />
+			<img src="/icon_buff/buff19.png" class="effect-icon" width="28" />
+			<p>Если заклинатель под воздействием [дара жизни], погружает в [сон] всех противников на вашем пути в течении <span>12 сек</span>.</p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+</skills>

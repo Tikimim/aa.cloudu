@@ -1,0 +1,118 @@
+body {padding:0;margin:0;font-family: 'Kurale', Tahoma, Arial, serif;background:#000 url(/img/bg30b.jpg) no-repeat top center;}
+
+/* Структура сайта */
+#layout {position:relative;width:788px;margin:0 auto;}
+
+#header {height:170px;padding-top:10px;}
+#header .bar {line-height:40px;font-size:32px;color:#fff;}
+
+#version {float:right;}
+#version span, #version div {float:left;}
+#version span {margin-right:5px;font-size:18px;color:#b5b5b5;}
+#version div {line-height:30px;font-size:18px;margin:5px 2px 2px 0;color:#fff;padding:0 3px;user-select:none;}
+#version div:hover {background:#fff;color:#000;border-radius:5px;cursor:pointer;}
+#version div[data-status="1"] {background:#78d56d;color:#000;border-radius:5px;}
+
+#header .info {line-height:16px;margin:30px 0;font-size:14px;color:#b5b5b5;}
+#header .info a {color:#fff;text-decoration:none;}
+
+#main {padding-top:40px;}
+
+#options {width:100%;height:55px;}
+#vkcomments {width:680px;border-radius:3px;background:white;padding:10px 0;margin:30px auto;}
+
+#nav {height:50px;}
+#className {line-height:50px;float:left;color:#fff;text-shadow: 1px 1px #000;font-size:36px;}
+
+.points {width:40px;margin:0 auto;text-align:center;text-shadow: 1px 1px #000;
+    color:#fff;font-size:36px;cursor:pointer;user-select:none;}
+.toggle, .save  {width:90px;float:right;margin:15px 10px 0 10px;padding:0 5px;text-align:center;text-shadow: 1px 1px #000;
+    color:#fff;font-size:18px;cursor:pointer;user-select:none;}
+.save {margin-right:40px;}
+
+#basic {height:350px;padding:15px 9px;background:#fff;border-radius:3px;}
+#basic-1, #basic-2, #basic-3 {width:216px;height:344px;float:left;padding:5px 20px;}
+#basic-2 {border-left:1px dashed #cecece;border-right:1px dashed #cecece;}
+#basic .selection {padding:0 15px;}
+#basic .selection div {line-height:20px;margin:4px 0;background:#f9f9f9;cursor:pointer;border-radius:3px;color:#7a7a7a;
+font-size:16px;padding:3px 0;text-align:center;border-right:1px solid #eaeaea;border-left:1px solid #eaeaea;}
+#basic .selection div:hover {color:#000000;}
+
+#block-info {height:140px;margin-top:30px;background:#d6cdc8;border-radius:3px;padding:10px;
+border-left:3px solid #c5b6aa;border-right:3px solid #c5b6aa;}
+
+.data {position:relative;margin-bottom:10px;}
+.data > .name {line-height:20px;text-transform:uppercase;color:#545454;font-weight:bold;font-size:16px;padding-left:5px;}
+.data > .return {cursor:pointer;position:absolute;top:0px;right:3px;border-radius:3px;font-size:14px;font-family:Tahoma, Arial;
+	background:#f1f1f1;width:20px;height:20px;color:#757575;text-align:center;user-select:none;}
+.data > .return:hover {color:black;}
+
+.skills .title {line-height:15px;font-size:15px;color:#7f7f7f;padding-left:5px;}
+.skill, .pskill, .bSkill {float:left;width:48px;height:48px;cursor:pointer;margin:3px;border-radius:3px;}
+.skill div, .pskill div, .bSkill div {width:100%;height:100%;background:url("/img/sk-overlay.png") repeat;border-radius:2px;color:#d0d0d0;text-align:center;line-height:48px;text-shadow:1px 1px #000;font-size:24px;user-select:none;}
+
+/*.pskill div {background:url("/img/sk-overlay-a.png") repeat;}*/
+
+/* Эферунд (замена скиллов) */
+
+#block-0, #block-1, #block-2, #block-3, #block-4,
+#block-5, #block-6, #block-7, #block-8, #block-9, #block-g {overflow:hidden;background:white;border-radius:3px;}
+
+.reset, .skill-null {width:48px;height:48px;text-align:center;line-height:48px;color:#a0a0a0;background:#f1f1f1;border-radius:3px;margin:3px;float:left;user-select:none;}
+.reset {font-size:30px;}
+.reset:hover {cursor:pointer;color:#000000;}
+
+#eferund {height:380px;background:#fff;border-radius:3px 200px 230px 3px;}
+#eferund .selection {width: 400px;float: left;margin: 90px 0 0 20px;}
+#eferund .selection div {width: 180px;background: #efefef;padding: 0 0 0 10px;margin: 2px 5px;line-height: 26px;color: #7a7a7a;float: left;font-size: 16px;border-radius: 3px;cursor:pointer;}
+#eferund .selection div:hover {color:#000;}
+#eferund .selection div[data-status="1"] {background:#888c95;color:#fff;}
+#eferund .skills {width: 440px;margin: 10px 0 0 30px;padding: 5px 0px;position: absolute;}
+#eferund .refresh {width:170px;position:absolute;left:25px;margin-top:300px;padding:5px 10px;border-radius:3px;background:#585d6a;color:#fff;cursor:pointer;user-select:none;}
+#eferund .refresh div {float:right;}
+
+
+#circle {width:350px;height:350px;position:relative;float:right;
+    background:#585d6a url("/img/circle.png") no-repeat center;border-radius:0 50% 50% 50%;margin:15px 0;}
+
+.mSkill {width:48px;height:48px;cursor:pointer;display:none;}
+.mSkill div {width:100%;height:100%;background:url("/img/sk-overlay.png") repeat;}
+
+.mSkill[data-cid="0"] {position:absolute;top:151px;left:151px;}
+.mSkill[data-cid="1"] {position:absolute;top:26px;left:96px;}
+.mSkill[data-cid="2"] {position:absolute;top:26px;right:96px;}
+.mSkill[data-cid="3"] {position:absolute;top:96px;right:26px;}
+.mSkill[data-cid="4"] {position:absolute;bottom:96px;right:26px;}
+.mSkill[data-cid="5"] {position:absolute;bottom:26px;right:96px;}
+.mSkill[data-cid="6"] {position:absolute;bottom:26px;left:96px;}
+.mSkill[data-cid="7"] {position:absolute;bottom:96px;left:26px;}
+.mSkill[data-cid="8"] {position:absolute;top:96px;left:26px;}
+
+#classes {height:370px;margin:10px 0;background:#fff;border-radius:3px;padding:0 10px;}
+#classes div {width:115px;float:left;font-size:14px;color:#545454;}
+
+#popup {display:none;position:fixed;top:0;bottom:0;left:0;right:0;background:url("/img/overlay.png") repeat;z-index:9999}
+#popup-bg {position:fixed;top:0;bottom:0;left:0;right:0;z-index:100;}
+#popup-block {position:absolute;left:50%;top:20px;width:400px;height:140px;margin-left:-210px;border-radius:3px;padding:10px;z-index:200;background:#fff;border-top:5px solid #483545;}
+#popup-block p {color:#483545;font-weight:bold;font-size: 16px;}
+
+#alink {width:388px;border-radius:5px;line-height:30px;color:#483545;background:#e5e2e5;padding:0 5px;border:0;}
+#close-alink {text-align:center;position:absolute;bottom:20px;right:10px;width:100px;height:30px;background:#e5e2e5;border-radius:5px;font-size:14px;line-height:30px;color:#483545;font-weight:bold;cursor:pointer;}
+
+#Skills-detail {width:280px;position:absolute;overflow:hidden;font-size:12px;background:url("/img/overlay.png") repeat;padding:10px 15px;color:#dadada;z-index:1;border-radius:4px;font-family:Tahoma, Arial;}
+#Skills-detail p {margin:0;}
+#Skills-detail p span {color:#ffa32d;}
+#Skills-detail p span span {color:#eac08a;}
+#Skills-detail p i {color:#00ff00;font-style:normal;}
+
+#Skills-detail .header {overflow:hidden;padding-bottom:5px;}
+#Skills-detail .name-skills {text-align:center;font-size:16px;color:#ffa32d;line-height:16px;font-weight:bold;}
+#Skills-detail .name-type {text-align:center;font-size:10px;}
+#Skills-detail img {border-radius:5px;height:28px;}
+
+#Skills-detail .effect {overflow:hidden;margin:10px 0;}
+#Skills-detail .effect p {color:#8fbb6f;padding-left:35px;}
+#Skills-detail .effect img {margin-right:5px;float:left;}
+.effect:first-child {padding-top:5px;margin-top:5px;border-top:1px solid #6d6d6d;}
+#Skills-detail .info {padding:5px;margin-bottom:5px;border:1px solid #28242d;border-radius:3px;background:#1f1c23;}
+#Skills-detail .desc .effect p {color:#ffa32d;}

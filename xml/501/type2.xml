@@ -1,0 +1,632 @@
+<skills>
+	<skill>
+		<index>1</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Оковы смерти</p>
+			<p class="name-type">Мистицизм</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>11</span></p>
+			<p>Дальность <span>0-10 м</span></p>
+			<p>Сила заклинаний <span>+300%</span></p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>18 сек.</span></p>
+		</div>
+		<div class="desc">
+			<img src="icon_buff/buff04.png" class="effect-icon" width="28"/>
+			<p>В течение <span>4 сек.</span> наносит <span>(1425 + 300% от силы заклинаний)</span> ед. урона 
+			<span>1-4</span> противникам и снижает их скорость передвижения на <span>50%.</span></p>
+			<p>Если расстояние до цели превысит максимальную дальность действия умения, оно прервется.</p>
+		</div>
+		<div class="effect">
+			<img src="icon_buff/buff277.png" class="effect-icon" width="28" />
+			<img src="icon_buff/buff10.png" class="effect-icon" width="28" />
+			<p>Если цель находится под воздействием [стигмы], она будет [оглушена] в момент отмены действия оков на <span>3 сек.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>2</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Кража жизни</p>
+			<p class="name-type">Мистицизм</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>220</span></p>
+			<p>Дальность <span>0-10 м</span></p>
+			<p>Сила заклинаний <span>+480%</span></p>
+			<p>Поддерживаемое умение</p>
+			<p>Восстановление <span>18 сек.</span></p>
+		</div>
+		<div class="desc">
+			<img src="icon_buff/buff10.png" class="effect-icon" width="28" />
+			<p>В течение <span>6.5 сек.</span> наносит цели <span>(1641 + 480% от силы заклинаний)</span> ед. урона, 
+			восстанавливая здоровье заклинателя на <span>13%</span> от общего объема.</p>
+			<p>Если расстояние между целью и заклинателем превысит <span>20 м,</span> 
+			действие умения прервется, но цель будет <span>оглушена</span> на <span>3 сек.</span></p>
+		</div>
+		<div class="effect">
+			<img src="icon_buff/buff92.png" class="effect-icon" width="28" />
+			<p>Если вы находитесь под воздействием [благословения], вместо заклинателя восстанавливает здоровье случайному соратнику в радиусе <span>10 м.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>3</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Имитация смерти</p>
+			<p class="name-type">Мистицизм</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>25</span></p>
+			<p>Выбор цели не требуется.</p>
+			<p>Поддерживаемое умение</p>
+			<p>Восстановление <span>40 сек.</span></p>
+		</div>
+		<div class="desc">
+			<p>Персонаж притворяется мертвым сбрасывая уровень угрозы. Попытка 
+			передвижения прерывает применение умения. Длительность действия эффекта 
+			составляет <span>8 сек.</span></p>
+			<p>Если персонаж является целью какого-либо противника, после 
+			применения умения он потеряет персонажа из виду.</p>
+			<p><i>Не активирует глобальное время восстановления способностей.</i></p>
+		</div>
+		<div class="effect">
+			<img src="icon_buff/buff505.png" class="effect-icon" width="28" />
+			<p>Под воздействием [прощальной мести] умение мгновенно сработает, 
+			однако длительность [оглушения] и урон снижается в <span>2 раза.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>4</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Семена порчи</p>
+			<p class="name-type">Мистицизм</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>19</span></p>
+			<p>Дальность <span>0-20 м</span></p>
+			<p>Сила заклинаний <span>+60%</span></p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>36 сек.</span></p>
+		</div>
+		<div class="desc">
+			<p>Заражает цель проклятыми семенами, действующими в течении <span>10 сек.</span> 
+			При движении зараженная цель оставляет за собой семена порчи. Через <span>4 сек.</span> 
+			или раньше, если кто-либо из противников наступит на них, семена прорастают, 
+			<span>пронзая</span> пораженные цели на <span>1.5 сек.</span></p>
+			<p>Дополнительно зараженные противники получают <span>(238 + 60% от силы заклинаний)</span> ед. урона.</p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>5</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Зловещая тень</p>
+			<p class="name-type">Мистицизм</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>29</span></p>
+			<p>Дальность <span>0-18 м</span></p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>30 сек.</span></p>
+		</div>
+		<div class="desc">
+			<p>Мгновенно перемещает за спину соратника или противника</p>
+			<p><i>Не активирует глобальное время восстановления способностей.</i></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>6</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Костяная клетка</p>
+			<p class="name-type">Мистицизм</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>142</span></p>
+			<p>Дальность <span>0-20 м</span></p>
+			<p>Сила заклинаний <span>+100%</span></p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>45 сек.</span></p>
+		</div>
+		<div class="desc">
+			<img src="icon_buff/buff05.png" class="effect-icon" width="28" />
+			<p>Огораживает и <span>обездвиживает</span> цель,а также всех 
+			противников в области действия умения, и наносит до 
+			<span>(518 + 100% от силы заклинаний)</span> ед. урона.</p>
+			<p>Клетку можно разрушить. Если этого не сделать, через <span>10 сек.</span> 
+			они исчезнет сама.</p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>7</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Призыв воронов</p>
+			<p class="name-type">Мистицизм</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>356</span></p>
+			<p>Выбор цели не требуется</p>
+			<p>Радиус <span>5 м</span></p>
+			<p>Сила заклинаний <span>+250%</span></p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>30 сек.</span></p>
+		</div>
+		<div class="desc">
+			<p>Призывает воронов, атакующих противников в области действия умения 
+			в течение <span>5 сек.</span> Наносит <span>(1302 + 250% от силы заклинаний)</span> 
+			ед. урона, снижая точность атак оружием на <span>30%.</span></p>
+		</div>
+		<div class="effect">
+			<img src="icon_buff/buff69.png" class="effect-icon" width="28" />
+			<img src="icon_buff/buff506.png" class="effect-icon" width="28" />
+			<p>Раскрывает [невидимые] цели в радиусе 20 м.</p>
+		</div>
+		<div class="effect">
+			<img src="icon_buff/buff55.png" class="effect-icon" width="28" />
+			<p>Если цель [обездвижена], точность ее атак снизится <span>вдвое.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>8</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Пронзающие копья</p>
+			<p class="name-type">Мистицизм</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>472</span></p>
+			<p>Выбор цели не требуется</p>
+			<p>Радиус действия <span>6 м</span></p>
+			<p>Сила заклинаний <span>+150%</span></p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>27 сек.</span></p>
+		</div>
+		<div class="desc">
+			<img src="icon_buff/buff124.png" class="effect-icon" width="28"/>
+			<p>Призывет копья, наносящие до <span>(1726 + 150% от силы заклинаний)</span> 
+			ед. урона и <span>пронзающие</span> противников в области действия умения 
+			в течение <span>2.6 сек.</span> Пронзенная цель не может двигаться и атаковать.</p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>9</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Транс</p>
+			<p class="name-type">Мистицизм</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>71</span></p>
+			<p>Выбор цели не требуется</p>
+			<p>Время применения <span>3.0 сек.</span></p>
+		</div>
+		<div class="desc">
+			<img src="icon_buff/buff49.png" class="effect-icon" width="28"/>
+			<p>При получении критического урона снижает время восстановления 
+			умений специализации «Мистицизм» на <span>1 сек.</span></p>
+			<p>Длительность действия эффекта составляет <span>60 сек.</span></p>
+		</div>
+		<div class="effect">
+			<img src="icon_buff/buff125.png" class="effect-icon" width="28" />
+			<p>Под воздействием [отравления], умение применяется мгновенно.</p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>10</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Призрачный вихрь</p>
+			<p class="name-type">Мистицизм</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>302</span></p>
+			<p>Дальность <span>0-20 м</span></p>
+			<p>Радиус действия <span>7 м</span></p>
+			<p>Время применения <span>1.0 сек.</span></p>
+			<p>Восстановление <span>60 сек.</span></p>
+		</div>
+		<div class="desc">
+			<p>Призывает вихрь, замедляющий <span>20</span> противников в области действия 
+			умения и стягивающий их в центр в течение <span>10 сек.</span></p>
+			<p>Призыв нового вихря отменяет действие предыдущего.</p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>11</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Дух мщения</p>
+			<p class="name-type">Мистицизм</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>686</span></p>
+			<p>Выбор цели не требуется</p>
+			<p>Радиус действия <span>7 м</span></p>
+			<p>Сила заклинаний <span>+70%</span></p>
+			<p>Поддерживаемое умение</p>
+			<p>Восстановление <span>60 сек.</span></p>
+		</div>
+		<div class="desc">
+			<p>Призывает на помощь мстительного духа, который в течение <span>9 сек.</span> 
+			наносит противника в области действия умения до <span>(835 + 70% от силы заклинаний)</span> 
+			ед. урона в секунду и накладывает на них проклятие, снижающее скорость 
+			атаки, передвижения и применения умений. Попытка передвижения прерывает 
+			применение умения.</p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>12</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Прощальная месть</p>
+			<p class="name-type">Мистицизм</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>394</span></p>
+			<p>Выбор цели не требуется</p>
+			<p>Сила заклинаний <span>+120%</span></p>
+			<p>Время применения <span>3.0 сек.</span></p>
+		</div>
+		<div class="desc">
+			<img src="icon_buff/buff10.png" class="effect-icon" width="28"/>
+			<p>В момент смерти тело заклинателя взрывается, нанося всем противникам 
+			в области действия умения до <span>(1440 + 120% от силы заклинаний)</span> 
+			ед. урона и <span>оглушая</span> их на <span>6 сек.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>13</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Ясность мысли</p>
+			<p class="name-type">Мистицизм</p>
+		</div>
+		<div class="info">
+			<p>Пассивное умение</p>
+		</div>
+		<div class="desc">
+			<p>Сокращает время применения умений на <span>2%.</span></p>
+			<p>Повышает показатель сноровки на <span>40 ед.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>14</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Вечные муки</p>
+			<p class="name-type">Мистицизм</p>
+		</div>
+		<div class="info">
+			<p>Пассивное умение</p>
+		</div>
+		<div class="desc">
+			<p>Увеличивает длительность действия эффектов прокола и оглушения на <span>20%.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>15</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Мощь тьмы</p>
+			<p class="name-type">Мистицизм</p>
+		</div>
+		<div class="info">
+			<p>Пассивное умение</p>
+		</div>
+		<div class="desc">
+			<p>Эффекты прокола и оглушения умений специализации <span>«Мистицизм»</span> всегда попадают в цель.</p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>16</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Клеймение грешных</p>
+			<p class="name-type">Мистицизм</p>
+		</div>
+		<div class="info">
+			<p>Пассивное умение</p>
+		</div>
+		<div class="desc">
+			<p>При попадании умениями «Пронзающие копья», «Призыв воронов» и 
+			«Костяная клетка» на заклинателя на <span>6 сек.</span> накладывается эффект <span>«Стигма»</span>, 
+			сокращающий время восстановления умений специализации <span>«Мистицизм»</span> на <span>1%.</span>
+			Эффект суммируется до <span>15 раз.</span> При достижении максимального уровня эффект 
+			<span>«Стигма»</span> на <span>6 сек.</span> преобразуется в <span>«Стигму смерти»</span>, сокращающую время 
+			восстановления умений специализации <span>«Мистицизм»</span> на <span>15%.</span> Дополнительно 
+			<span>«Стигма смерти»</span> снижает урон боевых умений и эффективность исцеляющих 
+			умений противников в радиусе <span>8 м</span> от заклинателя на <span>15%.</span></p>
+			<p>Пока действует этот эффект, заклинатель не может получить новый эффект <span>«Стигмы»</span>.</p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>17</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Власть небытия</p>
+			<p class="name-type">Мистицизм</p>
+		</div>
+		<div class="info">
+			<p>Пассивное умение</p>
+		</div>
+		<div class="desc">
+			<p>При попадании умений «Оковы смерти» и «Кража жизни» 
+			время восстановления умений специализации <span>«Мистицизм»</span> 
+			сокращается на <span>1%.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>18</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Неотвратимая кара</p>
+			<p class="name-type">Мистицизм</p>
+		</div>
+		<div class="info">
+			<p>Пассивное умение</p>
+		</div>
+		<div class="desc">
+			<p><span>Пронзает</span> противника, атаковавшего заклинателя.</p>
+			<p>Восстановление <span>12 сек.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	
+	<skill>
+		<index>213</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Оковы смерти</p>
+			<p class="name-type">Мистицизм [Земля]</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>44</span></p>
+			<p>Дальность <span>0-8 м</span></p>
+			<p>Радиус действия <span>5 м</span></p>
+			<p>Сила заклинаний <span>+300%</span></p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>36 сек.</span></p>
+		</div>
+		<div class="desc">
+		    <img src="icon_buff/buff04.png" class="effect-icon" width="28"/>
+		    <p>В течение <span>4 сек.</span> наносит <span>(1440 + 300% от силы заклинаний)</span> ед. урона и
+			снижает скорость передвижения противников в области действия умения на <span>50%.</span></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>214</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Оковы смерти</p>
+			<p class="name-type">Мистицизм [Порядок]</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>93</span></p>
+			<p>Дальность <span>0-20 м</span></p>
+			<p>Сила заклинаний <span>+300%</span></p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>18 сек.</span></p>
+		</div>
+		<div class="desc">
+		    <img src="icon_buff/buff04.png" class="effect-icon" width="28"/>
+		    <p>В течение <span>6 сек.</span> наносит <span>(1440 + 300% от силы заклинаний)</span> ед. урона цели и
+			снижает скорость передвижения на <span>80%</span>, а сноровку на <span>600 ед.</span> 
+			Попытка передвижения прерывает применение умения.</p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+
+	<skill>
+		<index>281</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Пронзающие копья</p>
+			<p class="name-type">Мистицизм [Огонь]</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>472</span></p>
+			<p>Выбор цели не требуется</p>
+			<p>Радиус действия <span>6 м</span></p>
+			<p>Сила заклинаний <span>+253%</span></p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>27 сек.</span></p>
+		</div>
+		<div class="desc">
+			<img src="icon_buff/buff124.png" class="effect-icon" width="28"/>
+			<p>Через <span>2 сек.</span> после применения умения призывает 
+			огненные копья, наносящие до <span>(2867 + 253% от силы заклинаний)</span> ед. урона 
+			и <span>пронзающие</span> противников в области умения в течение <span>2.6 сек.</span> 
+			Пронзенная цель не может двигаться и атаковать.</p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>286</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Пронзающие копья</p>
+			<p class="name-type">Мистицизм [Смерть]</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>236</span></p>
+			<p>Дальность <span>0-12 м</span></p>
+			<p>Сила заклинаний <span>+150%</span></p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>27 сек.</span></p>
+		</div>
+		<div class="desc">
+			<img src="icon_buff/buff124.png" class="effect-icon" width="28"/>
+			<p>Призывает копье, наносящее <span>(1726 + 150% от силы заклинаний)</span> 
+			ед. урона и <span>пронзающее противника в течение <span>2.6 сек.</span> 
+			Пронзенная цель не может двигаться и атаковать.</p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+
+	<skill>
+		<index>2115</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Дух мщения</p>
+			<p class="name-type">Мистицизм [Вода]</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>686</span></p>
+			<p>Выбор цели не требуется</p>
+			<p>Сила заклинаний <span>+120%</span></p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>60 сек.</span></p>
+		</div>
+		<div class="desc">
+			<p>Призывает на помощь мстительного духа, который в течение <span>9 сек.</span> 
+			наносит <span>20</span> противникам в области действия умения до 
+			<span>(230 + 120% от силы заклинаний)</span> ед. урона в секунду 
+			и накладывает на них проклятие, снижающее скорость атаки, передвижения 
+			и применения умений.</p>
+			<p>Данное умение наносит меньше урона, чем базовое. Действие 
+			«Духа мщения» (Вода) не прерывается при попытке передвижения, но 
+			прекращается при применении другого умения.</p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>2116</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Дух мщения</p>
+			<p class="name-type">Мистицизм [Смерть]</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>686</span></p>
+			<p>Дальность <span>0-15 м</span></p>\
+			<p>Радиус действия <span>7 м</span></p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>1 мин. 30 сек.</span></p>
+		</div>
+		<div class="desc">
+			<p>На <span>9 сек.</span> призывает в выбранную область мстительного духа, 
+			который накладывает на <span>20</span> противников в области действия 
+			умения проклятие, снижающее скорость атаки, передвижения и применения умений.</p>
+			<p><i>Это умение отменяет действие умений «Слуга бездны» и 
+			«Ужасающий крик» (Смерть).</i></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	
+	<skill>
+		<index>256</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Зловещая тень</p>
+			<p class="name-type">Мистицизм [Смерть]</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>29</span></p>
+			<p>Дальность <span>?</span></p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>20 сек.</span></p>
+		</div>
+		<div class="desc">
+			<p>Мгновенно перемещает за спину к случайной цели в том числе и к 
+			невидимой. Если при применения умения поблизости не было целей, 
+			время восстановления умения <span>8 сек.</span></p>
+			<p><i>Не активирует глобальное время восстановления способностей.</i></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+	<skill>
+		<index>258</index>
+		<desc>
+		<![CDATA[
+		<div class="header">
+			<p class="name-skills">Зловещая тень</p>
+			<p class="name-type">Мистицизм [Хаос]</p>
+		</div>
+		<div class="info">
+			<p>Мана <span>29</span></p>
+			<p>Дальность <span>0-15 м</span></p>
+			<p>Мгновенное применение</p>
+			<p>Восстановление <span>30 сек.</span></p>
+		</div>
+		<div class="desc">
+			<p>Мгновенно перемещает за спину соратника или противника до <span>3 раз.</span> 
+			При каждом применении дальность умения уменьшается до <span>15 м, 12 м, 6 м.</span></p>
+			<p><i>Не активирует глобальное время восстановления способностей.</i></p>
+		</div>
+		]]>
+		</desc>
+	</skill>
+</skills>
